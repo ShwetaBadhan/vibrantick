@@ -127,7 +127,7 @@
         </div>
         <!-- about comoany end -->
 
-      
+
 
         <!-- services start -->
         <div class="rts-servcie-area rts-section-gap bg-light-2">
@@ -253,8 +253,8 @@
             </div>
         </div>
         <!-- services end -->
-  <!-- rts feature area start -->
-        <div class="rts-feature-area-three rts-section-gap">
+        <!-- rts feature area start -->
+        <!-- <div class="rts-feature-area-three rts-section-gap">
             <div class="container">
                 <div class="row g-5">
                     <div class="col-lg-6">
@@ -375,7 +375,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- rts feature area end -->
         <!-- what we want to do -->
         <div class="rts-section-gap our-vission area-4 bg_dark">
@@ -522,109 +522,209 @@
                 </div>
             </div>
         </div>
+        <!-- projects -->
 
-        <!-- rts business case area start -->
-        <div class="rts-case-area rts-section-gap bg_light">
-            <div class="container pb--40">
+        <section class="project-two bg_image-project-two rts-section-gapTop">
+            <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="title-area-between">
                             <div class="title-left-wrapper">
-                                <span class="pre">Case Studies</span>
-                                <h2 class="title rts-text-anime-style-1">
-                                    Transforming Businesses <br />
-                                    with IT Solutions
+                                <h2 class="title rts-text-anime-style-1">Transformative IT <br> Solutions: Case Studies
                                 </h2>
                             </div>
                             <div class="right-area">
                                 <p class="disc">
-                                    Our case studies provide a deep dive into the challenges faced
-                                    and the solutions that delivered remarkable results.
+                                    Our case studies provide a deep dive into the challenges faced and the solutions
+                                    that
+                                    delivered remarkable results.
                                 </p>
-                                <a href="#" class="btn-line"><span>View all Project</span>
-                                    <i class="fa-solid fa-chevron-right"></i></a>
+                                <a href="#" class="btn-line"><span>View All Case</span> <i
+                                        class="fa-solid fa-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="row g-5 mt--10">
-                    <div class="col-lg-12">
-                        <div class="swiper mySwiper-case-one">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="single-case-style-one">
-                                        <a href="project-details.html" class="thumbnail-case">
-                                            <img src="/images/case/01.webp" alt="case" />
-                                        </a>
-                                        <a href="project-details.html" class="inner-content">
-                                            <span>IT Technology</span>
-                                            <h5 class="title">App Development</h5>
-                                        </a>
-                                    </div>
+
+                <div class="row mt--30">
+                    <div class="outer-box">
+
+                        <!-- Project Block -->
+                        <div class="project-block-four active">
+                            <div class="inner-box">
+                                <div class="content-rotate">
+                                    <span>01.Cybersecurity Enhancement</span>
                                 </div>
-                                <div class="swiper-slide">
-                                    <div class="single-case-style-one">
-                                        <a href="project-details.html" class="thumbnail-case">
-                                            <img src="/images/case/02.webp" alt="case" />
-                                        </a>
-                                        <a href="project-details.html" class="inner-content">
-                                            <span>IT Technology</span>
-                                            <h5 class="title">Cybersecurity</h5>
-                                        </a>
+                                <div class="all-content">
+                                    <div class="image-box">
+                                        <figure class="image">
+                                            <a href="project-details.html">
+                                                <img src="/images/project/01.webp" alt="Image">
+                                            </a>
+                                        </figure>
                                     </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="single-case-style-one">
-                                        <a href="project-details.html" class="thumbnail-case">
-                                            <img src="/images/case/03.webp" alt="case" />
-                                        </a>
-                                        <a href="project-details.html" class="inner-content">
-                                            <span>IT Solution</span>
-                                            <h5 class="title">Network Optimization</h5>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="single-case-style-one">
-                                        <a href="project-details.html" class="thumbnail-case">
-                                            <img src="/images/case/04.webp" alt="case" />
-                                        </a>
-                                        <a href="project-details.html" class="inner-content">
-                                            <span>IT Technology</span>
-                                            <h5 class="title">Digital Transformation</h5>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="single-case-style-one">
-                                        <a href="project-details.html" class="thumbnail-case">
-                                            <img src="/images/case/03.webp" alt="case" />
-                                        </a>
-                                        <a href="project-details.html" class="inner-content">
-                                            <span>IT Solution</span>
-                                            <h5 class="title">Network Optimization</h5>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="single-case-style-one">
-                                        <a href="project-details.html" class="thumbnail-case">
-                                            <img src="/images/case/04.webp" alt="case" />
-                                        </a>
-                                        <a href="project-details.html" class="inner-content">
-                                            <span>IT Technology</span>
-                                            <h5 class="title">Digital Transformation</h5>
-                                        </a>
+                                    <div class="content-box">
+                                        <span class="number">01.</span>
+                                        <h2 class="title">Cybersecurity Enhancement</h2>
+                                        <p class="disc">
+                                            Implemented multi cybersecurity solutions, preventing data breaches &
+                                            ensuring
+                                            regulatory compliance.
+                                        </p>
+                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                                class="fa-solid fa-chevron-right"></i></a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-pagination"></div>
                         </div>
+                        <!-- Project Block -->
+                        <div class="project-block-four">
+                            <div class="inner-box">
+                                <div class="content-rotate">
+                                    <span>02.Mobile App Development</span>
+                                </div>
+                                <div class="all-content">
+                                    <div class="image-box">
+                                        <figure class="image">
+                                            <a href="project-details.html">
+                                                <img src="/images/project/28.webp" alt="Image">
+                                            </a>
+                                        </figure>
+                                    </div>
+                                    <div class="content-box">
+                                        <span class="number">02.</span>
+                                        <h2 class="title">Mobile App Development</h2>
+                                        <p class="disc">
+                                            Implemented multi cybersecurity solutions, preventing data breaches &
+                                            ensuring
+                                            regulatory compliance.
+                                        </p>
+                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                                class="fa-solid fa-chevron-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Project Block -->
+                        <div class="project-block-four">
+                            <div class="inner-box">
+                                <div class="content-rotate">
+                                    <span>03.Network Security Overhaul</span>
+                                </div>
+                                <div class="all-content">
+                                    <div class="image-box">
+                                        <figure class="image">
+                                            <a href="project-details.html">
+                                                <img src="/images/project/29.webp" alt="Image">
+                                            </a>
+                                        </figure>
+                                    </div>
+                                    <div class="content-box">
+                                        <span class="number">03.</span>
+                                        <h2 class="title">Network Security Overhaul</h2>
+                                        <p class="disc">
+                                            Implemented multi cybersecurity solutions, preventing data breaches &
+                                            ensuring
+                                            regulatory compliance.
+                                        </p>
+                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                                class="fa-solid fa-chevron-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Project Block -->
+                        <div class="project-block-four">
+                            <div class="inner-box">
+                                <div class="content-rotate">
+                                    <span>04.IT Infrastructure Upgrade</span>
+                                </div>
+                                <div class="all-content">
+                                    <div class="image-box">
+                                        <figure class="image">
+                                            <a href="project-details.html">
+                                                <img src="/images/project/30.webp" alt="Image">
+                                            </a>
+                                        </figure>
+                                    </div>
+                                    <div class="content-box">
+                                        <span class="number">04.</span>
+                                        <h2 class="title">IT Infrastructure Upgrade</h2>
+                                        <p class="disc">
+                                            Implemented multi cybersecurity solutions, preventing data breaches &
+                                            ensuring
+                                            regulatory compliance.
+                                        </p>
+                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                                class="fa-solid fa-chevron-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Project Block -->
+                        <div class="project-block-four">
+                            <div class="inner-box">
+                                <div class="content-rotate">
+                                    <span>05.Custom CRM Development</span>
+                                </div>
+                                <div class="all-content">
+                                    <div class="image-box">
+                                        <figure class="image">
+                                            <a href="project-details.html">
+                                                <img src="/images/project/31.webp" alt="Image">
+                                            </a>
+                                        </figure>
+                                    </div>
+                                    <div class="content-box">
+                                        <span class="number">05.</span>
+                                        <h2 class="title">Custom CRM Development</h2>
+                                        <p class="disc">
+                                            Implemented multi cybersecurity solutions, preventing data breaches &
+                                            ensuring
+                                            regulatory compliance.
+                                        </p>
+                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                                class="fa-solid fa-chevron-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Project Block -->
+                        <div class="project-block-four">
+                            <div class="inner-box">
+                                <div class="content-rotate">
+                                    <span>06.ERP System Implementation</span>
+                                </div>
+                                <div class="all-content">
+                                    <div class="image-box">
+                                        <figure class="image">
+                                            <a href="project-details.html">
+                                                <img src="/images/project/32.webp" alt="Image">
+                                            </a>
+                                        </figure>
+                                    </div>
+                                    <div class="content-box">
+                                        <span class="number">06.</span>
+                                        <h2 class="title">ERP System Implementation</h2>
+                                        <p class="disc">
+                                            Implemented multi cybersecurity solutions, preventing data breaches &
+                                            ensuring
+                                            regulatory compliance.
+                                        </p>
+                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                                class="fa-solid fa-chevron-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
+
             </div>
-        </div>
-        <!-- rts business case area end -->
+        </section>
+        <!-- projects -->
+       
 
         <!-- facilities area start -->
         <div class="rts-facilities-area rts-section-gap">

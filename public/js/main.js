@@ -882,3 +882,22 @@
 
 
 
+ document.addEventListener('DOMContentLoaded', function () {
+            const projectBlocks = document.querySelectorAll('.project-block-four');
+            
+            // Activate the first project by default
+            if (projectBlocks.length > 0) {
+                projectBlocks[0].classList.add('active');
+            }
+            
+            // Add click event to each project block
+            projectBlocks.forEach(block => {
+                block.addEventListener('click', function () {
+                    // Remove active class from all blocks
+                    projectBlocks.forEach(b => b.classList.remove('active'));
+                    
+                    // Add active class to clicked block
+                    this.classList.add('active');
+                });
+            });
+        });
