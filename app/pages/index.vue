@@ -466,62 +466,37 @@
 
 
 
-        <!-- rts working process area start -->
-        <div class="rts-working-process-area rts-section-gap">
+        <!-- facilities area start -->
+        <div class="rts-facilities-area rts-section-gap">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="title-center-wrapper">
-                            <span class="pre">Working Process</span>
-                            <h2 class="title rts-text-anime-style-1">
-                                Our Approach to Success
-                            </h2>
+                <div class="row g-5 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="facilities-area-left">
+                            <div class="title-left-wrapper">
+                                <span class="pre">Technologies</span>
+                                <h2 class="title rts-text-anime-style-1">
+                                    Empowering Innovation <br />
+                                    Advanced Technologies
+                                </h2>
+                            </div>
+                            <p class="disc">
+                                We leverage the latest technologies to provide innovative IT
+                                solutions that drive growth and efficiency. From cloud platforms
+                                like AWS and Microsoft Azure to advanced AI and cybersecurity
+                                tools
+                            </p>
+                            <a href="contact.html" class="rts-btn btn-primary">Get Started – It's free</a>
                         </div>
                     </div>
-                </div>
-                <div class="row mt--40">
-                    <div class="col-lg-12">
-                        <div class="working-process-three-main">
-                            <div class="row g-5">
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="working-process-wrapper-three">
-                                        <h5 class="title">Assessment</h5>
-                                        <p class="disc">
-                                            We start by thoroughly understanding your business needs,
-                                            challenges
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="working-process-wrapper-three">
-                                        <h5 class="title">Planning</h5>
-                                        <p class="disc">
-                                            Based on our analysis, we craft a tailored strategy that
-                                            aligns.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="working-process-wrapper-three">
-                                        <h5 class="title">Implementation</h5>
-                                        <p class="disc">
-                                            We develop a detailed plan that covers all aspects of the
-                                            solution.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="working-process-wrapper-three">
-                                        <h5 class="title">Support</h5>
-                                        <p class="disc">Ongoing maintenance and improvement.</p>
-                                    </div>
-                                </div>
-                            </div>
+                    <div class="col-lg-6">
+                        <div class="thumbnail-area-facilities">
+                            <img src="/images/others/03.webp" alt="feature" />
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <!-- facilities area end -->
         <!-- projects -->
 
         <section class="project-two bg_image-project-two rts-section-gapTop">
@@ -724,40 +699,90 @@
             </div>
         </section>
         <!-- projects -->
-       
 
-        <!-- facilities area start -->
-        <div class="rts-facilities-area rts-section-gap">
+
+      
+
+
+
+
+
+
+        <!-- rts blog area start -->
+        <div class="rts-blog-area rts-section-gap">
             <div class="container">
-                <div class="row g-5 align-items-center">
-                    <div class="col-lg-6">
-                        <div class="facilities-area-left">
-                            <div class="title-left-wrapper">
-                                <span class="pre">Technologies</span>
-                                <h2 class="title rts-text-anime-style-1">
-                                    Empowering Innovation <br />
-                                    Advanced Technologies
-                                </h2>
-                            </div>
-                            <p class="disc">
-                                We leverage the latest technologies to provide innovative IT
-                                solutions that drive growth and efficiency. From cloud platforms
-                                like AWS and Microsoft Azure to advanced AI and cybersecurity
-                                tools
-                            </p>
-                            <a href="contact.html" class="rts-btn btn-primary">Get Started – It's free</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="thumbnail-area-facilities">
-                            <img src="/images/others/03.webp" alt="feature" />
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="title-center-wrapper">
+                            <span class="pre">Insights</span>
+                            <h2 class="title rts-text-anime-style-1">
+                                Expert Insights and <br />Milestone Ideas
+                            </h2>
                         </div>
                     </div>
                 </div>
+                <div class="swiper mySwiper-blog mt--30">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="single-blog-style-one br-8">
+                                <a href="blog-details-software-company.html" class="thumbnail-blog br-10">
+                                    <img src="/images/blog/01.webp" alt="blog">
+                                </a>
+                                <div class="inner-content-blog">
+                                    <span>Development</span>
+                                    <a href="blog-details-software-company.html">
+                                        <h5 class="title">
+                                            WordPress vs Storyblok: Which is the best CMS for fast-growing companies?
+                                        </h5>
+                                    </a>
+                                    <a href="blog-details-software-company.html" class="btn-line"><span>Learn
+                                            More</span> <i class="fa-solid fa-chevron-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="single-blog-style-one br-8">
+                                <a href="blog-details-software-company.html" class="thumbnail-blog br-10">
+                                    <img src="/images/blog/02.webp" alt="blog">
+                                </a>
+                                <div class="inner-content-blog">
+                                    <span>Technology</span>
+                                    <a href="blog-details-software-company.html">
+                                        <h5 class="title">
+                                            How we reached international audience using Smart ling and Storyblok
+                                        </h5>
+                                    </a>
+                                    <a href="blog-details-software-company.html" class="btn-line"><span>Learn
+                                            More</span> <i class="fa-solid fa-chevron-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="single-blog-style-one br-8">
+                                <a href="blog-details-software-company.html" class="thumbnail-blog br-10">
+                                    <img src="/images/blog/03.webp" alt="blog">
+                                </a>
+                                <div class="inner-content-blog">
+                                    <span>Development</span>
+                                    <a href="blog-details-software-company.html">
+                                        <h5 class="title">
+                                            Website Internationalization vs Localization: How to Benefit With a Headless
+                                            CMS
+                                        </h5>
+                                    </a>
+                                    <a href="blog-details-software-company.html" class="btn-line"><span>Learn
+                                            More</span> <i class="fa-solid fa-chevron-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="swiper-pagination"></div>
+                </div>
             </div>
         </div>
-        <!-- facilities area end -->
-
+        <!-- rts blog area end -->
         <!-- rts call to action area start -->
         <div class="rts-call-to-action-area rts-section-gapBottom">
             <div class="container">
@@ -777,162 +802,6 @@
                 </div>
             </div>
         </div>
-
-        <!-- rts pricing area start -->
-        <div class="rts-pricing-area rts-section-gapBottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-5">
-                        <div class="title-left-wrapper">
-                            <span class="pre">Pricing</span>
-                            <h2 class="title rts-text-anime-style-1">
-                                Flexible Pricing, <br />
-                                Tailored to You
-                            </h2>
-                        </div>
-                        <div class="accordon-pricing-wrapper-three">
-                            <div class="accordion" id="pricingAccordion">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseOne" aria-expanded="true"
-                                            aria-controls="collapseOne">
-                                            What's included in each plan?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseOne" class="accordion-collapse collapse show"
-                                        aria-labelledby="headingOne" data-bs-parent="#pricingAccordion">
-                                        <div class="accordion-body">
-                                            Each plan is designed to offer a specific set of services
-                                            tailored to different business needs.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingTwo">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                            aria-expanded="false" aria-controls="collapseTwo">
-                                            Can I upgrade or downgrade my plan later?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTwo" class="accordion-collapse collapse"
-                                        aria-labelledby="headingTwo" data-bs-parent="#pricingAccordion">
-                                        <div class="accordion-body">
-                                            Each plan is designed to offer a specific set of services
-                                            tailored to different business needs.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingThree">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                            aria-expanded="false" aria-controls="collapseThree">
-                                            What payment methods do you accept?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThree" class="accordion-collapse collapse"
-                                        aria-labelledby="headingThree" data-bs-parent="#pricingAccordion">
-                                        <div class="accordion-body">
-                                            Each plan is designed to offer a specific set of services
-                                            tailored to different business needs.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-7 pl--50 pl_lg--10 mt_lg--50 mt_md--50 mt_sm--20 pl_lg--0 pl_md--10 pl_sm--10">
-                        <div class="row g-50">
-                            <div class="col-lg-6">
-                                <div class="single-pricing-wrapper-three">
-                                    <div class="top-area">
-                                        <h5 class="title">Professional</h5>
-                                    </div>
-                                    <div class="bottom-area">
-                                        <div class="price-area">
-                                            <h5 class="title">$29</h5>
-                                            <span class="disc"> Per Month </span>
-                                        </div>
-                                        <p class="disc mb--20">Business by Professional Plan</p>
-                                        <div class="button-area">
-                                            <a href="#" class="rts-btn btn-primary"> Select Plan </a>
-                                        </div>
-                                        <div class="list-area">
-                                            <ul>
-                                                <li>
-                                                    <i class="fa-solid fa-check"></i>
-                                                    <span> Everything in Basic Plan, plus: </span>
-                                                </li>
-                                                <li>
-                                                    <i class="fa-solid fa-check"></i>
-                                                    <span> 24/7 IT Support (Phone & Chat) </span>
-                                                </li>
-                                                <li>
-                                                    <i class="fa-solid fa-check"></i>
-                                                    <span> Data Backup (Weekly) </span>
-                                                </li>
-                                                <li class="disabled">
-                                                    <i class="fa-solid fa-check"></i>
-                                                    <span> Cloud Storage (Up to 200GB) </span>
-                                                </li>
-                                                <li class="disabled">
-                                                    <i class="fa-solid fa-check"></i>
-                                                    <span> Software Integration Support </span>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="single-pricing-wrapper-three">
-                                    <div class="top-area">
-                                        <h5 class="title">Enterprise</h5>
-                                    </div>
-                                    <div class="bottom-area">
-                                        <div class="price-area">
-                                            <h5 class="title">$129</h5>
-                                            <span class="disc"> Per Month </span>
-                                        </div>
-                                        <p class="disc mb--20">Enterprises needing full-scale</p>
-                                        <div class="button-area">
-                                            <a href="#" class="rts-btn btn-primary"> Select Plan </a>
-                                        </div>
-                                        <div class="list-area">
-                                            <ul>
-                                                <li>
-                                                    <i class="fa-solid fa-check"></i>
-                                                    <span> Everything in Basic Plan, plus: </span>
-                                                </li>
-                                                <li>
-                                                    <i class="fa-solid fa-check"></i>
-                                                    <span> 24/7 IT Support (Phone & Chat) </span>
-                                                </li>
-                                                <li>
-                                                    <i class="fa-solid fa-check"></i>
-                                                    <span> Data Backup (Weekly) </span>
-                                                </li>
-                                                <li>
-                                                    <i class="fa-solid fa-check"></i>
-                                                    <span> Cloud Storage (Up to 200GB) </span>
-                                                </li>
-                                                <li>
-                                                    <i class="fa-solid fa-check"></i>
-                                                    <span> Software Integration Support </span>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- rts pricing area end -->
 
         <!-- rts testimoanials area start -->
         <div class="rts-testimonials-style-three rts-section-gap">
@@ -1052,82 +921,5 @@
             </div>
         </div>
         <!-- rts testimoanials area edn -->
-
-        <!-- rts blog area start -->
-        <div class="rts-blog-area rts-section-gap">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="title-center-wrapper">
-                            <span class="pre">Insights</span>
-                            <h2 class="title rts-text-anime-style-1">
-                                Expert Insights and <br />Milestone Ideas
-                            </h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper mySwiper-blog mt--30">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="single-blog-style-one br-8">
-                                <a href="blog-details-software-company.html" class="thumbnail-blog br-10">
-                                    <img src="/images/blog/01.webp" alt="blog">
-                                </a>
-                                <div class="inner-content-blog">
-                                    <span>Development</span>
-                                    <a href="blog-details-software-company.html">
-                                        <h5 class="title">
-                                            WordPress vs Storyblok: Which is the best CMS for fast-growing companies?
-                                        </h5>
-                                    </a>
-                                    <a href="blog-details-software-company.html" class="btn-line"><span>Learn
-                                            More</span> <i class="fa-solid fa-chevron-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="single-blog-style-one br-8">
-                                <a href="blog-details-software-company.html" class="thumbnail-blog br-10">
-                                    <img src="/images/blog/02.webp" alt="blog">
-                                </a>
-                                <div class="inner-content-blog">
-                                    <span>Technology</span>
-                                    <a href="blog-details-software-company.html">
-                                        <h5 class="title">
-                                            How we reached international audience using Smart ling and Storyblok
-                                        </h5>
-                                    </a>
-                                    <a href="blog-details-software-company.html" class="btn-line"><span>Learn
-                                            More</span> <i class="fa-solid fa-chevron-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="single-blog-style-one br-8">
-                                <a href="blog-details-software-company.html" class="thumbnail-blog br-10">
-                                    <img src="/images/blog/03.webp" alt="blog">
-                                </a>
-                                <div class="inner-content-blog">
-                                    <span>Development</span>
-                                    <a href="blog-details-software-company.html">
-                                        <h5 class="title">
-                                            Website Internationalization vs Localization: How to Benefit With a Headless
-                                            CMS
-                                        </h5>
-                                    </a>
-                                    <a href="blog-details-software-company.html" class="btn-line"><span>Learn
-                                            More</span> <i class="fa-solid fa-chevron-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="swiper-pagination"></div>
-                </div>
-            </div>
-        </div>
-        <!-- rts blog area end -->
-
     </div>
 </template>

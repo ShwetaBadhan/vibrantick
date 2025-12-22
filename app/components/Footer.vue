@@ -23,8 +23,8 @@
       <div class="row">
         <div class="col-lg-3">
           <div class="left-wiget">
-            <a class="logo" href="index.html">
-              <img src="/images/logo/01.svg" alt="logo" />
+            <a class="logo" href="/">
+              <img src="/images/logo/Logo-white.png" alt="logo" />
             </a>
             <p class="disc">
               Subscribe our newsletter to get the latest news and updates!

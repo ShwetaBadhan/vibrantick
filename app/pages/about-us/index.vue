@@ -25,79 +25,250 @@
             </div>
         </div>
         <!-- rts about-breadcrumb-area-end -->
+        <div class="rts-about-area rts-section-gap">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="about-area-inner-wrapper-thumbnail">
+                            <div class="left-image">
+                                <img src="/images/about/01.webp" alt="about" />
+                            </div>
+                            <div class="left-image last">
+                                <img src="/images/about/02.webp" alt="about" />
+                            </div>
+                            <div class="experience">
+                                <img src="/images/banner/04.png" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 pl--50 pl_md--10 pl_sm--10 pt_md--50 pt_sm--50">
+                        <div class="about-content-style-one">
+                            <div class="title-left-wrapper">
+                                <span class="pre">About Company</span>
+                                <h2 class="title rts-text-anime-style-1">
+                                    Innovative IT Solutions Power Your Business
+                                </h2>
+                            </div>
+                            <p class="disc">
+                                we are passionate about delivering innovative IT solutions that
+                                empower businesses to thrive in the digital age. With years of
+                                experience and a team of dedicated professionals.
+                            </p>
+                            <div class="quote-and-review-area">
+                                <div class="quote-area">
+                                    <p class="quote">
+                                        As a financial institution, data security is paramount.
+                                        Digix implemented advanced cybersecurity measures.
+                                    </p>
+                                    <img src="/images/about/signature.png" alt="signature" class="signature" />
+                                </div>
+                                <div class="review-area">
+                                    <h2 class="title">2K</h2>
+                                    <p>Client Connect with our Company</p>
+                                    <img src="/images/about/avatar.png" alt="about" />
+                                </div>
+                            </div>
+                            <a href="about.html" class="rts-btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-        <!-- rts mission areas start -->
-        <div class="rts-mission-area rts-section-gap">
+        <!-- rts about area start -->
+        <div class="rts-about-area rts-section-gap bg_dark">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="rts-mission-content-about-page">
-                            <p class="disc">
-                                Digix, we specialize in delivering innovative IT solutions that
-                                drive business success. Founded with a vision to empower
-                                organizations through technology, we bring together a team of
-                                experts dedicated to solving today’s challenges and anticipating
-                                tomorrow’s needs. From system integration and cloud solutions to
-                                cybersecurity and data management, we’re committed to helping
-                                businesses harness the power of technology.
-                            </p>
-                            <div class="large-image-mission">
-                                <img src="/images/about/07.webp" alt="about" />
-                            </div>
-
-                            <div class="arrow-text-animation">
-                                <div class="circle-animation">
-                                    <a class="" href="#">
-                                        <svg class="uni-circle-text-path uk-text-secondary uni-animation-spin"
-                                            viewbox="0 0 100 100" width="154" height="154">
-                                            <defs>
-                                                <path id="circle"
-                                                    d="M 50, 50 m -37, 0 a 37,37 0 1,1 74,0 a 37,37 0 1,1 -74,0"></path>
-                                            </defs>
-                                            <text>
-                                                <textpath xlink:href="#circle">
-                                                    Corporate Agency • Corporate Agency •
-                                                </textpath>
-                                            </text>
-                                        </svg>
-                                        <i class="fa-sharp fa-regular fa-arrow-down"></i>
-                                    </a>
-                                </div>
-                                <p class="disc1">Our Mission</p>
-                            </div>
-
-                            <div class="funfacts-area-counter-up-mission">
-                                <div class="single-funfacts-area-counter-up-mission">
-                                    <div class="icon">
-                                        <img src="/images/about/icons/06.svg" alt="icons" />
-                                    </div>
-                                    <div class="content">
-                                        <h2 class="counter title">
-                                            <span class="odometer" data-count="25">00</span>+
-                                        </h2>
-                                        <p class="disc2">Year IT Experience</p>
+                        <div class="title-center-wrapper">
+                            <span class="pre">Why Choose Us</span>
+                            <h2 class="title rts-text-anime-style-1">
+                                Expert Solutions to Power <br />
+                                Your IT Business Growth
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt--40">
+                    <div class="col-lg-12">
+                        <div class="about-three-wrapper">
+                            <div class="row">
+                                <div class="col-lg-3 pr--70 pr_sm--10">
+                                    <div class="about-nav-area">
+                                        <ul class="nav nav-tabs" id="aboutTabs" role="tablist">
+                                            <li class="nav-item" role="presentation">
+                                                <button class="nav-link active" id="mission-tab" data-bs-toggle="tab"
+                                                    data-bs-target="#mission" type="button" role="tab"
+                                                    aria-controls="mission" aria-selected="true">
+                                                    <span>About Our Company</span>
+                                                </button>
+                                            </li>
+                                            <li class="nav-item" role="presentation">
+                                                <button class="nav-link" id="vision-tab" data-bs-toggle="tab"
+                                                    data-bs-target="#vision" type="button" role="tab"
+                                                    aria-controls="vision" aria-selected="false">
+                                                    <span>Who We Are</span>
+                                                </button>
+                                            </li>
+                                            <li class="nav-item" role="presentation">
+                                                <button class="nav-link" id="values-tab" data-bs-toggle="tab"
+                                                    data-bs-target="#values" type="button" role="tab"
+                                                    aria-controls="values" aria-selected="false">
+                                                    <span>Our Mission and Vision</span>
+                                                </button>
+                                            </li>
+                                        </ul>
                                     </div>
                                 </div>
-                                <div class="single-funfacts-area-counter-up-mission">
-                                    <div class="icon">
-                                        <img src="/images/about/icons/07.svg" alt="icons" />
-                                    </div>
-                                    <div class="content">
-                                        <h2 class="counter title">
-                                            <span class="odometer" data-count="23">00</span>K
-                                        </h2>
-                                        <p class="disc2">Wonderful Client</p>
-                                    </div>
-                                </div>
-                                <div class="single-funfacts-area-counter-up-mission">
-                                    <div class="icon">
-                                        <img src="/images/about/icons/08.svg" alt="icons" />
-                                    </div>
-                                    <div class="content">
-                                        <h2 class="counter title">
-                                            <span class="odometer" data-count="2">00</span>M
-                                        </h2>
-                                        <p class="disc2">Project Done</p>
+                                <div class="col-lg-9">
+                                    <div class="nav-content-about-three-area">
+                                        <div class="tab-content" id="aboutTabsContent">
+                                            <div class="tab-pane fade show active" id="mission" role="tabpanel"
+                                                aria-labelledby="mission-tab">
+                                                <div class="about-content-three">
+                                                    <div class="image-top-area-about">
+                                                        <div class="thumbnail-1">
+                                                            <img src="/images/about/03.webp" alt="about" />
+                                                        </div>
+                                                        <div class="thumbnail-2">
+                                                            <img src="/images/about/04.webp" alt="about" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="content-area-about">
+                                                        <p class="disc">
+                                                            We are a team of passionate IT experts committed
+                                                            to delivering innovative and reliable technology
+                                                            solutions. With years of industry experience, we
+                                                            have empowered businesses to grow, streamline
+                                                            operations, and secure their digital presence.
+                                                        </p>
+                                                    </div>
+                                                    <div class="progress-area-about-wrapper">
+                                                        <div class="progress-wrapper-main">
+                                                            <div class="single-progress-area-h" data-sal-delay="150"
+                                                                data-sal="slide-up" data-sal-duration="800">
+                                                                <div class="progress-top">
+                                                                    <p class="name">Milestones We've Achieved</p>
+                                                                    <span class="parcent"> 65% </span>
+                                                                </div>
+                                                                <div class="progress">
+                                                                    <div class="progress-bar wow fadeInLeft bg--primary"
+                                                                        role="progressbar" style="width: 65%"
+                                                                        aria-valuenow="25" aria-valuemin="0"
+                                                                        aria-valuemax="100"></div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="single-progress-area-h" data-sal-delay="150"
+                                                                data-sal="slide-up" data-sal-duration="800">
+                                                                <div class="progress-top">
+                                                                    <p class="name">Our Continuous Growth</p>
+                                                                    <span class="parcent"> 85% </span>
+                                                                </div>
+                                                                <div class="progress">
+                                                                    <div class="progress-bar wow fadeInLeft bg--primary"
+                                                                        role="progressbar" style="width: 85%"
+                                                                        aria-valuenow="25" aria-valuemin="0"
+                                                                        aria-valuemax="100"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="round-progress">
+                                                            <img src="/images/about/progress.svg" alt="about" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="tab-pane fade" id="vision" role="tabpanel"
+                                                aria-labelledby="vision-tab">
+                                                <div class="about-content-three two">
+                                                    <div class="image-top-area-about">
+                                                        <div class="thumbnail">
+                                                            <img src="/images/about/18.webp" alt="about" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="content-area-about">
+                                                        <p class="disc">
+                                                            Founded with the goal of offering advanced IT
+                                                            solutions, our company is focused on meeting the
+                                                            evolving needs of businesses. We specialize in
+                                                            everything from cloud computing to cybersecurity,
+                                                            providing tailored solutions that deliver real
+                                                            results.
+                                                        </p>
+                                                    </div>
+                                                    <div class="counter-area">
+                                                        <ul>
+                                                            <li>
+                                                                <div class="icon">
+                                                                    <img src="/images/about/icons/12.svg"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="content">
+                                                                    <h5>25+</h5>
+                                                                    <p>Year IT Experience</p>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="icon">
+                                                                    <img src="/images/about/icons/13.svg"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="content">
+                                                                    <h5>23K</h5>
+                                                                    <p>Wonderful Client</p>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="icon">
+                                                                    <img src="/images/about/icons/14.svg"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="content">
+                                                                    <h5>2M</h5>
+                                                                    <p>Project Done</p>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="tab-pane fade" id="values" role="tabpanel"
+                                                aria-labelledby="values-tab">
+                                                <div class="about-content-three three">
+                                                    <div class="image-top-area-about">
+                                                        <div class="thumbnail">
+                                                            <img src="/images/about/19.webp" alt="about" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="content-area-about">
+                                                        <p class="disc">
+                                                            Our mission is to provide world-class IT services
+                                                            that enhance efficiency and drive innovation. We
+                                                            envision a future where technology empowers
+                                                            businesses to reach their full potential, and
+                                                            we’re here to help you get there.
+                                                        </p>
+                                                        <p class="disc">
+                                                            At the heart of our company lies a dedication to
+                                                            creating future-ready IT solutions. We stay ahead
+                                                            of technological trends to ensure your business is
+                                                            always equipped with the latest tools and
+                                                            strategies for success.
+                                                        </p>
+                                                        <div class="signature-area-wrapper">
+                                                            <!-- <img src="/images/others/sign-03.svg" alt="signature"> -->
+                                                        </div>
+                                                        <div class="clients-area-clients">
+                                                            <img src="/images/about/avatar.png" alt="about" />
+                                                            <p class="disc">
+                                                                2.5k Client Connect with <br />
+                                                                our Company
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -106,10 +277,68 @@
                 </div>
             </div>
         </div>
-        <!-- rts mission areas end -->
-
-        <!-- rts company values area start -->
-        <div class="rts-company-values-area rts-section-gapBottom">
+        <!-- rts about area end -->
+           <!-- rts working process area start -->
+        <div class="rts-working-process-area rts-section-gap working-process">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="title-center-wrapper">
+                            <span class="pre">Working Process</span>
+                            <h2 class="title rts-text-anime-style-1">
+                                Our Approach to Success
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt--40">
+                    <div class="col-lg-12">
+                        <div class="working-process-three-main">
+                            <div class="row g-5">
+                                <div class="col-lg-3">
+                                    <div class="working-process-wrapper-three">
+                                        <h5 class="title">Assessment</h5>
+                                        <p class="disc">
+                                            We start by thoroughly understanding your business needs,
+                                            challenges
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="working-process-wrapper-three">
+                                        <h5 class="title">Planning</h5>
+                                        <p class="disc">
+                                            We start by thoroughly understanding your business needs,
+                                            challenges
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="working-process-wrapper-three">
+                                        <h5 class="title">Implementation</h5>
+                                        <p class="disc">
+                                            We start by thoroughly understanding your business needs,
+                                            challenges
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="working-process-wrapper-three">
+                                        <h5 class="title">Support</h5>
+                                        <p class="disc">
+                                            We start by thoroughly understanding your business needs,
+                                            challenges
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+         <!-- rts company values area start -->
+        <div class="rts-company-values-area rts-section-gap Bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -194,7 +423,6 @@
             </div>
         </div>
         <!-- rts company values area end -->
-
         <!-- rts team members area start -->
         <div class="rts-team-members rts-section-gap bg-light-2">
             <div class="container">
@@ -317,66 +545,12 @@
             </div>
         </div>
         <!-- rts team members area end -->
+      
+       
 
-        <!-- rts working process area start -->
-        <div class="rts-working-process-area rts-section-gap">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="title-center-wrapper">
-                            <span class="pre">Working Process</span>
-                            <h2 class="title rts-text-anime-style-1">
-                                Our Approach to Success
-                            </h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row mt--40">
-                    <div class="col-lg-12">
-                        <div class="working-process-three-main">
-                            <div class="row g-5">
-                                <div class="col-lg-3">
-                                    <div class="working-process-wrapper-three">
-                                        <h5 class="title">Assessment</h5>
-                                        <p class="disc">
-                                            We start by thoroughly understanding your business needs,
-                                            challenges
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3">
-                                    <div class="working-process-wrapper-three">
-                                        <h5 class="title">Planning</h5>
-                                        <p class="disc">
-                                            We start by thoroughly understanding your business needs,
-                                            challenges
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3">
-                                    <div class="working-process-wrapper-three">
-                                        <h5 class="title">Implementation</h5>
-                                        <p class="disc">
-                                            We start by thoroughly understanding your business needs,
-                                            challenges
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3">
-                                    <div class="working-process-wrapper-three">
-                                        <h5 class="title">Support</h5>
-                                        <p class="disc">
-                                            We start by thoroughly understanding your business needs,
-                                            challenges
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
+
+
 
         <!-- rts call to action area start -->
         <div class="rts-call-to-action-area rts-section-gapBottom">
