@@ -1,5 +1,30 @@
 <template>
     <div>
+        <!-- rts about-breadcrumb-area-start -->
+        <div class="rts-about-breadcrumb-area">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="rts-about-breadcrumb-content">
+                            <ul>
+                                <li><a href="/">Home</a></li>
+                                <li><i class="fa fa-chevron-right"></i></li>
+                                <li class="active"><a href="/contact-us">Contact Us</a></li>
+                            </ul>
+                            <h1 class="title rts-text-anime-style-1">
+                                Your vision, our expertise!
+                            </h1>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 pl--50 pl_md--10 pl_sm--10">
+                        <div class="rts-about-breadcrumb-image">
+                            <img src="/images/about/04.webp" alt="about" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- rts about-breadcrumb-area-end -->
         <!-- rts service-details-breadcrumb-area-start -->
         <div class="rts-service-details-breadcrumb-area">
             <div class="container">
@@ -91,8 +116,7 @@
                             </div>
                             <div class="single-input">
                                 <label for="message">How can we help you?</label>
-                                <textarea name="message" id="message" placeholder="Your message..."
-                                    required></textarea>
+                                <textarea name="message" id="message" placeholder="Your message..." required></textarea>
                             </div>
                             <div class="single-input with-checkbox">
                                 <input type="checkbox" name="checkbox" id="checkbox" />
@@ -109,7 +133,7 @@
         </div>
         <!-- rts contact area end -->
 
-     
+
 
         <!-- rts call to action area start -->
         <div class="rts-call-to-action-area rts-section-gapBottom">

@@ -32,7 +32,7 @@
                           <div class="col-lg-4">
                             <ul class="mega-menu-item parent-nav">
                               <li>
-                                <a href="/service-details">
+                                <a href="/industry">
                                   <div class="single-service-menu">
                                     <div class="icon">
                                       <img src="/images/feature/01.svg" alt="service" />
@@ -48,7 +48,7 @@
                                 </a>
                               </li>
                               <li>
-                                <a href="/service-details">
+                                <a href="/industry">
                                   <div class="single-service-menu">
                                     <div class="icon">
                                       <img src="/images/feature/02.svg" alt="service" />
@@ -65,7 +65,7 @@
                                 </a>
                               </li>
                               <li>
-                                <a href="/service-details">
+                                <a href="/industry">
                                   <div class="single-service-menu">
                                     <div class="icon">
                                       <img src="/images/feature/03.svg" alt="service" />
@@ -86,7 +86,7 @@
                           <div class="col-lg-4">
                             <ul class="mega-menu-item parent-nav">
                               <li>
-                                <a href="/service-details">
+                                <a href="/industry">
                                   <div class="single-service-menu">
                                     <div class="icon">
                                       <img src="/images/feature/04.svg" alt="service" />
@@ -104,7 +104,7 @@
                                 </a>
                               </li>
                               <li>
-                                <a href="/service-details">
+                                <a href="/industry">
                                   <div class="single-service-menu">
                                     <div class="icon">
                                       <img src="/images/feature/05.svg" alt="service" />
@@ -122,7 +122,7 @@
                                 </a>
                               </li>
                               <li>
-                                <a href="/service-details">
+                                <a href="/industry">
                                   <div class="single-service-menu">
                                     <div class="icon">
                                       <img src="/images/feature/06.svg" alt="service" />

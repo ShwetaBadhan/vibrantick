@@ -13,7 +13,7 @@ export default defineNuxtConfig({
       title: "Vibrantick Infotech Solutions",
       link: [
         //  Favicon
-        { rel: "shortcut icon", type: "image/x-icon", href: "/images/fav.png" },
+        { rel: "shortcut icon", type: "image/x-icon", href: "/images/logo/favicon.png" },
         {
           rel: "stylesheet preload",
           href: "/css/plugins/fontawesome.css",
