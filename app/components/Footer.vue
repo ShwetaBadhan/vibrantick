@@ -147,9 +147,9 @@
               </p>
 
               <ul>
-                <li><a href="">Privacy Policy</a></li>
+                <li><a href="/privacy-policy">Privacy Policy</a></li>
                 |
-                <li><a href="">Terms &amp; Conditions</a></li>
+                <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
               </ul>
             </div>
           </div>

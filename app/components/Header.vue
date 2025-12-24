@@ -176,7 +176,7 @@
                                       <img src="/images/feature/01.svg" alt="service" />
                                     </div>
                                     <div class="info">
-                                      <h5 class="title">IT Consulting</h5>
+                                      <h5 class="title">Cloud Services</h5>
                                       <p class="details">
                                         Once planning is complete, site
                                         preparation begins.
@@ -192,7 +192,7 @@
                                       <img src="/images/feature/02.svg" alt="service" />
                                     </div>
                                     <div class="info">
-                                      <h5 class="title">Cloud Migration</h5>
+                                      <h5 class="title">Database Management</h5>
                                       <p class="details">
                                         Quis nulla blandit vulputate morbi
                                         adipiscing sem vestibulum. Nulla
@@ -231,7 +231,7 @@
                                     </div>
                                     <div class="info">
                                       <h5 class="title">
-                                        Software Development
+                                        DevSecOPs
                                       </h5>
                                       <p class="details">
                                         We provide best IT solutions for any
@@ -249,7 +249,7 @@
                                     </div>
                                     <div class="info">
                                       <h5 class="title">
-                                        Managed IT Services
+                                        E-commerce Management
                                       </h5>
                                       <p class="details">
                                         We provide best IT solutions for any
@@ -267,7 +267,7 @@
                                     </div>
                                     <div class="info">
                                       <h5 class="title">
-                                        IT Infrastructure Setup
+                                        Web Development
                                       </h5>
                                       <p class="details">
                                         We provide best IT solutions for any
@@ -299,10 +299,151 @@
                     </div>
                   </div>
                 </li>
-                <li class="main-nav ">
-                 <a href="/our-blogs">Our Blogs</a>
-                 
+                <li class="main-nav has-dropdown mega-menu">
+                  <a href="#">Training &amp; Internship</a>
+                  <div class="rts-mega-menu service-mega-menu-style">
+                    <div class="wrapper">
+                      <div class="container">
+                        <div class="row g-5">
+                          <div class="col-lg-4">
+                            <ul class="mega-menu-item parent-nav">
+                              <li>
+                                <a href="/service-details">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img src="/images/feature/01.svg" alt="service" />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">Cloud Services</h5>
+                                      <p class="details">
+                                        Once planning is complete, site
+                                        preparation begins.
+                                      </p>
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/service-details">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img src="/images/feature/02.svg" alt="service" />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">Database Management</h5>
+                                      <p class="details">
+                                        Quis nulla blandit vulputate morbi
+                                        adipiscing sem vestibulum. Nulla
+                                        turpis
+                                      </p>
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/service-details">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img src="/images/feature/03.svg" alt="service" />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">Cyber Security</h5>
+                                      <p class="details">
+                                        Quis nulla blandit vulputate morbi
+                                        adipiscing sem vestibulum. Nulla
+                                        turpis
+                                      </p>
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                          <div class="col-lg-4">
+                            <ul class="mega-menu-item parent-nav">
+                              <li>
+                                <a href="/service-details">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img src="/images/feature/04.svg" alt="service" />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">
+                                        DevSecOPs
+                                      </h5>
+                                      <p class="details">
+                                        We provide best IT solutions for any
+                                        type of business.
+                                      </p>
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/service-details">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img src="/images/feature/05.svg" alt="service" />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">
+                                        E-commerce Management
+                                      </h5>
+                                      <p class="details">
+                                        We provide best IT solutions for any
+                                        type of business as.
+                                      </p>
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/service-details">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img src="/images/feature/06.svg" alt="service" />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">
+                                        Web Development
+                                      </h5>
+                                      <p class="details">
+                                        We provide best IT solutions for any
+                                        type of business as.
+                                      </p>
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                          <div class="col-lg-4">
+                            <div class="menu-list">
+                              <h4>Working Process</h4>
+                              <ul>
+                                <li>Initial Consultation</li>
+                                <li>Developing & strategy</li>
+                                <li>Implementation</li>
+                                <li>Ongoing Monitoring</li>
+                                <li>Assessment</li>
+                                <li>Planning</li>
+                                <li>Implementation</li>
+                                <li>Support</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </li>
+                 <li class="main-nav has-dropdown project-a-after">
+                  <a href="#">Engage Expert</a>
+                  <ul class="submenu parent-nav">
+                    <a href="#">PHP Expert</a>
+                  </ul>
+                </li>
+               
                 <li class="main-nav">
                   <a href="/contact-us">Contact Us</a>
                 </li>
