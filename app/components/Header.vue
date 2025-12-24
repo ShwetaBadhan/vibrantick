@@ -437,16 +437,22 @@
                     </div>
                   </div>
                 </li>
+                <li class="main-nav has-dropdown project-a-after">
+                  <a href="#">Resources</a>
+                  <ul class="submenu parent-nav">
+                   <li> <a href="/contact-us">Contact Us</a></li>
+                   <li> <a href="/our-blogs">Our Blogs</a></li>
+                  </ul>
+                </li>
                  <li class="main-nav has-dropdown project-a-after">
                   <a href="#">Engage Expert</a>
                   <ul class="submenu parent-nav">
-                    <a href="#">PHP Expert</a>
+                    <li><a href="#">PHP Expert</a></li>
                   </ul>
                 </li>
+                 
                
-                <li class="main-nav">
-                  <a href="/contact-us">Contact Us</a>
-                </li>
+                
               </ul>
             </div>
             <div class="button-wrapper-flex">
