@@ -1,6 +1,6 @@
 <template>
   <header class="header-one header-relative header--sticky">
-    <div class="container">
+    <div class="container-fluid">
       <div class="row">
         <div class="col-lg-12">
           <div class="header-wrapper-main">
