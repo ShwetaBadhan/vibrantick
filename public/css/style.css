@@ -24234,5 +24234,49 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   text-align: justify;
 }
 
+.project-main-img img {
+  border-radius: 24px;
+  max-height: 450px;
+}
+
+.info-box {
+  background: #f4f7fb;
+  padding: 25px;
+  border-radius: 18px;
+}
+
+.info-item {
+  display: flex;
+  gap: 15px;
+  padding: 14px 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.info-item:last-child {
+  border-bottom: none;
+}
+
+.info-item span {
+  width: 42px;
+  height: 42px;
+  background: #e0ecff;
+  color: #2563eb;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.download-btn {
+  display: block;
+  background: #fff;
+  padding: 12px 15px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: #2563eb;
+  font-weight: 500;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
 
 /*# sourceMappingURL=../maps/style.css.map */
