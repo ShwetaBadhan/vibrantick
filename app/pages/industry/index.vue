@@ -158,7 +158,7 @@
               Start your 30-day free trial. Cancel anytime. View demo Start free
               trial
             </p>
-            <a href="contact.html" class="rts-btn btn-primary"
+            <a href="/contact-us" class="rts-btn btn-primary"
               >Started for Trial</a
             >
           </div>

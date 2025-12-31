@@ -21086,6 +21086,9 @@ hr {
   border-radius: 20px;
   box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
 }
+.engage-expert-feature{
+  background: linear-gradient(101.07deg, #f8faff 2.25%, #fdf8ff 85.45%) !important;
+}
 
 .rts-feature-area-three.saas-landing .section-inner {
   background: #f6f8ff;
@@ -24277,6 +24280,141 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   color: #2563eb;
   font-weight: 500;
   box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+.tc-career-card {
+    width: 360px;
+    background: #ffffff;
+    border-radius: 24px;
+    padding: 20px;
+    box-shadow: 0 25px 45px rgba(0,0,0,0.08);
+    font-family: 'Inter', sans-serif;
+}
+
+/* Header */
+.tc-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+    padding: 20px;
+}
+
+.tc-post-date {
+    padding: 10px 18px;
+    background: #ffffff;
+    border-radius: 30px;
+    font-size: 14px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+}
+
+.tc-fav-btn {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+}
+
+.tc-fav-btn i {
+    color: #111827;
+}
+
+/* Body */
+.tc-card-body {
+    background: #f3f6fb;
+    border-radius: 20px;
+    
+    margin:0 0 20px 0;
+}
+
+.tc-company-block {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    padding: 20px;
+}
+
+.tc-company-avatar {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.tc-company-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: #2563eb;
+    text-decoration: none;
+}
+
+.tc-job-title {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 4px 0;
+}
+
+.tc-job-location {
+    font-size: 14px;
+    color: #6b7280;
+}
+
+.tc-divider {
+   height: 0.5px;
+    background: #d1d2d4;
+    margin: 10px 0;
+}
+
+/* Tags */
+.tc-job-tags {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.tc-job-tags span {
+    background: #ffffff;
+    padding: 8px 14px;
+    border-radius: 30px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+/* Footer */
+.tc-card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tc-salary {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.tc-salary i {
+    color: #2563eb;
+    margin-right: 6px;
+}
+
+.tc-apply-btn {
+    padding: 12px 22px;
+    border-radius: 30px;
+    border: 1px solid #d1d5db;
+    font-weight: 600;
+    text-decoration: none;
+    color: #111827;
+    transition: all 0.3s ease;
+}
+
+.tc-apply-btn:hover {
+    background: #2563eb;
+    color: #ffffff;
+    border-color: #2563eb;
 }
 
 /*# sourceMappingURL=../maps/style.css.map */

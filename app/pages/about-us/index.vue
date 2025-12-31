@@ -68,7 +68,7 @@
                                     <img src="/images/about/avatar.png" alt="about" />
                                 </div>
                             </div>
-                            <a href="about.html" class="rts-btn btn-primary">Learn More</a>
+                            <a href="/contact-us" class="rts-btn btn-primary">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -442,7 +442,7 @@
                                     who bring their expertise, creativity, and passion to every
                                     project.
                                 </p>
-                                <a href="about.html" class="btn-line"><span>We are hiring</span>
+                                <a href="/career" class="btn-line"><span>We are hiring</span>
                                     <i class="fa-solid fa-chevron-right"></i></a>
                             </div>
                         </div>
@@ -565,7 +565,7 @@
                                 Start your 30-day free trial. Cancel anytime. View demo Start
                                 free trial
                             </p>
-                            <a href="contact.html" class="rts-btn btn-primary">Started for Trial</a>
+                            <a href="/contact-us" class="rts-btn btn-primary">Started for Trial</a>
                         </div>
                     </div>
                 </div>

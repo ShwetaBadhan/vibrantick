@@ -18,7 +18,7 @@
                                 and stay ahead of the competition.
                             </p>
                             <div class="button-group">
-                                <a href="contact.html" class="rts-btn btn-primary">Get Started – It's free</a>
+                                <a href="#" class="rts-btn btn-primary">Get Started – It's free</a>
                                 <div class="top">
                                     <img src="/images/banner/user.png" alt="user" />
                                     <span class="info">
@@ -114,7 +114,7 @@
                                 </p>
                             </div>
 
-                            <a href="about.html" class="btn-line mt--30"><span>About Us</span> <i
+                            <a href="#" class="btn-line mt--30"><span>About Us</span> <i
                                     class="fa-solid fa-chevron-right"></i></a>
                         </div>
                     </div>
@@ -145,7 +145,7 @@
                                     to
                                     cybersecurity
                                 </p>
-                                <a href="service.html" class="btn-line"><span>View all Service</span> <i
+                                <a href="#" class="btn-line"><span>View all Service</span> <i
                                         class="fa-solid fa-chevron-right"></i></a>
                             </div>
                         </div>
@@ -157,10 +157,10 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="single-case-style-one title-bottom">
-                                        <a href="service-details.html" class="thumbnail-case">
+                                        <a href="#" class="thumbnail-case">
                                             <img src="/images/service/01.webp" alt="case">
                                         </a>
-                                        <a href="service-details.html" class="inner-content">
+                                        <a href="#" class="inner-content">
                                             <h5 class="title">Custom Software <br> Development</h5>
                                             <div class="arrow-btn">
                                                 <i class="fa-light fa-arrow-up"></i>
@@ -170,10 +170,10 @@
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="single-case-style-one title-bottom">
-                                        <a href="service-details.html" class="thumbnail-case">
+                                        <a href="#" class="thumbnail-case">
                                             <img src="/images/service/02.webp" alt="case">
                                         </a>
-                                        <a href="service-details.html" class="inner-content">
+                                        <a href="#" class="inner-content">
                                             <h5 class="title">Network Design <br> and Management</h5>
                                             <div class="arrow-btn">
                                                 <i class="fa-light fa-arrow-up"></i>
@@ -183,10 +183,10 @@
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="single-case-style-one title-bottom">
-                                        <a href="service-details.html" class="thumbnail-case">
+                                        <a href="#" class="thumbnail-case">
                                             <img src="/images/service/03.webp" alt="case">
                                         </a>
-                                        <a href="service-details.html" class="inner-content">
+                                        <a href="#" class="inner-content">
                                             <h5 class="title">AI and Machine <br> Learning Solutions</h5>
                                             <div class="arrow-btn">
                                                 <i class="fa-light fa-arrow-up"></i>
@@ -196,10 +196,10 @@
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="single-case-style-one title-bottom">
-                                        <a href="service-details.html" class="thumbnail-case">
+                                        <a href="#" class="thumbnail-case">
                                             <img src="/images/service/04.webp" alt="case">
                                         </a>
-                                        <a href="service-details.html" class="inner-content">
+                                        <a href="#" class="inner-content">
                                             <h5 class="title">IT Support and <br> Helpdesk Services</h5>
                                             <div class="arrow-btn">
                                                 <i class="fa-light fa-arrow-up"></i>
@@ -209,10 +209,10 @@
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="single-case-style-one title-bottom">
-                                        <a href="service-details.html" class="thumbnail-case">
+                                        <a href="#" class="thumbnail-case">
                                             <img src="/images/service/02.webp" alt="case">
                                         </a>
-                                        <a href="service-details.html" class="inner-content">
+                                        <a href="#" class="inner-content">
                                             <h5 class="title">Network Design <br> and Management</h5>
                                             <div class="arrow-btn">
                                                 <i class="fa-light fa-arrow-up"></i>
@@ -222,10 +222,10 @@
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="single-case-style-one title-bottom">
-                                        <a href="service-details.html" class="thumbnail-case">
+                                        <a href="#" class="thumbnail-case">
                                             <img src="/images/service/03.webp" alt="case">
                                         </a>
-                                        <a href="service-details.html" class="inner-content">
+                                        <a href="#" class="inner-content">
                                             <h5 class="title">AI and Machine <br> Learning Solutions</h5>
                                             <div class="arrow-btn">
                                                 <i class="fa-light fa-arrow-up"></i>
@@ -235,10 +235,10 @@
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="single-case-style-one title-bottom">
-                                        <a href="service-details.html" class="thumbnail-case">
+                                        <a href="#" class="thumbnail-case">
                                             <img src="/images/service/04.webp" alt="case">
                                         </a>
-                                        <a href="service-details.html" class="inner-content">
+                                        <a href="#" class="inner-content">
                                             <h5 class="title">IT Support and <br> Helpdesk Services</h5>
                                             <div class="arrow-btn">
                                                 <i class="fa-light fa-arrow-up"></i>
@@ -272,7 +272,7 @@
                                 your operations, enhance security, and boost overall
                                 productivity.
                             </p>
-                            <a href="service.html" class="btn-line"><span>View All Services</span>
+                            <a href="#" class="btn-line"><span>View All Services</span>
                                 <i class="fa-solid fa-chevron-right"></i></a>
                         </div>
                     </div>
@@ -286,7 +286,7 @@
                                 <p class="disc">
                                     Tailored IT strategies to improve business efficiency.
                                 </p>
-                                <a href="service-details.html" class="round-btn">
+                                <a href="#" class="round-btn">
                                     <i class="fa-sharp-duotone fa-light fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -302,7 +302,7 @@
                                 <p class="disc">
                                     Helping businesses move their operations to the cloud.
                                 </p>
-                                <a href="service-details.html" class="round-btn">
+                                <a href="#" class="round-btn">
                                     <i class="fa-sharp-duotone fa-light fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -319,7 +319,7 @@
                                     Protection against cyber threats with advanced security
                                     systems.
                                 </p>
-                                <a href="service-details.html" class="round-btn">
+                                <a href="#" class="round-btn">
                                     <i class="fa-sharp-duotone fa-light fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -335,7 +335,7 @@
                                 <p class="disc">
                                     Custom software solutions for business needs.
                                 </p>
-                                <a href="service-details.html" class="round-btn">
+                                <a href="#" class="round-btn">
                                     <i class="fa-sharp-duotone fa-light fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -351,7 +351,7 @@
                                 <p class="disc">
                                     Complete IT support, from monitoring to maintenance.
                                 </p>
-                                <a href="service-details.html" class="round-btn">
+                                <a href="#" class="round-btn">
                                     <i class="fa-sharp-duotone fa-light fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -368,7 +368,7 @@
                                     Building and managing the physical and virtual IT
                                     infrastructure
                                 </p>
-                                <a href="service-details.html" class="round-btn">
+                                <a href="#" class="round-btn">
                                     <i class="fa-sharp-duotone fa-light fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -453,7 +453,7 @@
                                             <p>Enhancing Data-Driven Decisions</p>
                                         </div>
                                     </div>
-                                    <a href="project-details-software-company.html" class="rts-btn btn-primary">Learn
+                                    <a href="#" class="rts-btn btn-primary">Learn
                                         More</a>
                                 </div>
                             </div>
@@ -486,7 +486,7 @@
                                 like AWS and Microsoft Azure to advanced AI and cybersecurity
                                 tools
                             </p>
-                            <a href="contact.html" class="rts-btn btn-primary">Get Started – It's free</a>
+                            <a href="#" class="rts-btn btn-primary">Get Started – It's free</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -506,7 +506,7 @@
                     <div class="col-lg-12">
                         <div class="title-area-between">
                             <div class="title-left-wrapper">
-                                <h2 class="title rts-text-anime-style-1">Transformative IT <br> Solutions: Case Studies
+                                <h2 class="title rts-text-anime-style-1">Transformative IT <br> Solutions: Industry
                                 </h2>
                             </div>
                             <div class="right-area">
@@ -534,7 +534,7 @@
                                 <div class="all-content">
                                     <div class="image-box">
                                         <figure class="image">
-                                            <a href="project-details.html">
+                                            <a href="#">
                                                 <img src="/images/project/01.webp" alt="Image">
                                             </a>
                                         </figure>
@@ -547,7 +547,7 @@
                                             ensuring
                                             regulatory compliance.
                                         </p>
-                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                        <a href="#" class="btn-line"><span>View Details</span> <i
                                                 class="fa-solid fa-chevron-right"></i></a>
                                     </div>
                                 </div>
@@ -562,7 +562,7 @@
                                 <div class="all-content">
                                     <div class="image-box">
                                         <figure class="image">
-                                            <a href="project-details.html">
+                                            <a href="#">
                                                 <img src="/images/project/28.webp" alt="Image">
                                             </a>
                                         </figure>
@@ -575,7 +575,7 @@
                                             ensuring
                                             regulatory compliance.
                                         </p>
-                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                        <a href="#" class="btn-line"><span>View Details</span> <i
                                                 class="fa-solid fa-chevron-right"></i></a>
                                     </div>
                                 </div>
@@ -590,7 +590,7 @@
                                 <div class="all-content">
                                     <div class="image-box">
                                         <figure class="image">
-                                            <a href="project-details.html">
+                                            <a href="#">
                                                 <img src="/images/project/29.webp" alt="Image">
                                             </a>
                                         </figure>
@@ -603,7 +603,7 @@
                                             ensuring
                                             regulatory compliance.
                                         </p>
-                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                        <a href="#" class="btn-line"><span>View Details</span> <i
                                                 class="fa-solid fa-chevron-right"></i></a>
                                     </div>
                                 </div>
@@ -618,7 +618,7 @@
                                 <div class="all-content">
                                     <div class="image-box">
                                         <figure class="image">
-                                            <a href="project-details.html">
+                                            <a href="#">
                                                 <img src="/images/project/30.webp" alt="Image">
                                             </a>
                                         </figure>
@@ -631,7 +631,7 @@
                                             ensuring
                                             regulatory compliance.
                                         </p>
-                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                        <a href="#" class="btn-line"><span>View Details</span> <i
                                                 class="fa-solid fa-chevron-right"></i></a>
                                     </div>
                                 </div>
@@ -646,7 +646,7 @@
                                 <div class="all-content">
                                     <div class="image-box">
                                         <figure class="image">
-                                            <a href="project-details.html">
+                                            <a href="#">
                                                 <img src="/images/project/31.webp" alt="Image">
                                             </a>
                                         </figure>
@@ -659,7 +659,7 @@
                                             ensuring
                                             regulatory compliance.
                                         </p>
-                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                        <a href="#" class="btn-line"><span>View Details</span> <i
                                                 class="fa-solid fa-chevron-right"></i></a>
                                     </div>
                                 </div>
@@ -674,7 +674,7 @@
                                 <div class="all-content">
                                     <div class="image-box">
                                         <figure class="image">
-                                            <a href="project-details.html">
+                                            <a href="#">
                                                 <img src="/images/project/32.webp" alt="Image">
                                             </a>
                                         </figure>
@@ -687,7 +687,7 @@
                                             ensuring
                                             regulatory compliance.
                                         </p>
-                                        <a href="project-details.html" class="btn-line"><span>View Details</span> <i
+                                        <a href="#" class="btn-line"><span>View Details</span> <i
                                                 class="fa-solid fa-chevron-right"></i></a>
                                     </div>
                                 </div>
@@ -726,52 +726,52 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="single-blog-style-one br-8">
-                                <a href="blog-details-software-company.html" class="thumbnail-blog br-10">
+                                <a href="#" class="thumbnail-blog br-10">
                                     <img src="/images/blog/01.webp" alt="blog">
                                 </a>
                                 <div class="inner-content-blog">
                                     <span>Development</span>
-                                    <a href="blog-details-software-company.html">
+                                    <a href="#">
                                         <h5 class="title">
                                             WordPress vs Storyblok: Which is the best CMS for fast-growing companies?
                                         </h5>
                                     </a>
-                                    <a href="blog-details-software-company.html" class="btn-line"><span>Learn
+                                    <a href="#" class="btn-line"><span>Learn
                                             More</span> <i class="fa-solid fa-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="single-blog-style-one br-8">
-                                <a href="blog-details-software-company.html" class="thumbnail-blog br-10">
+                                <a href="#" class="thumbnail-blog br-10">
                                     <img src="/images/blog/02.webp" alt="blog">
                                 </a>
                                 <div class="inner-content-blog">
                                     <span>Technology</span>
-                                    <a href="blog-details-software-company.html">
+                                    <a href="#">
                                         <h5 class="title">
                                             How we reached international audience using Smart ling and Storyblok
                                         </h5>
                                     </a>
-                                    <a href="blog-details-software-company.html" class="btn-line"><span>Learn
+                                    <a href="#" class="btn-line"><span>Learn
                                             More</span> <i class="fa-solid fa-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="single-blog-style-one br-8">
-                                <a href="blog-details-software-company.html" class="thumbnail-blog br-10">
+                                <a href="#" class="thumbnail-blog br-10">
                                     <img src="/images/blog/03.webp" alt="blog">
                                 </a>
                                 <div class="inner-content-blog">
                                     <span>Development</span>
-                                    <a href="blog-details-software-company.html">
+                                    <a href="#">
                                         <h5 class="title">
                                             Website Internationalization vs Localization: How to Benefit With a Headless
                                             CMS
                                         </h5>
                                     </a>
-                                    <a href="blog-details-software-company.html" class="btn-line"><span>Learn
+                                    <a href="#" class="btn-line"><span>Learn
                                             More</span> <i class="fa-solid fa-chevron-right"></i></a>
                                 </div>
                             </div>
@@ -797,130 +797,192 @@
                                 Start your 30-day free trial. Cancel anytime. View demo Start
                                 free trial
                             </p>
-                            <a href="contact.html" class="rts-btn btn-primary">Started for Trial</a>
+                            <a href="#" class="rts-btn btn-primary">Started for Trial</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <!-- rts testimoanials area start -->
-        <div class="rts-testimonials-style-three rts-section-gap">
-            <div class="container pb--70">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="title-center-wrapper">
-                            <span class="pre">Testimonials</span>
-                            <h2 class="title rts-text-anime-style-1">What clients said</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-12 pt--60">
-                        <div class="testimominas-single-wrapper-three">
-                            <div class="swiper mySwiper-testimonials-three">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="single-testimonails-three">
-                                            <div class="left-thumbnmail">
-                                                <img src="/images/testimonials/06.webp" alt="testimonial" />
-                                                <div class="small-image">
-                                                    <img src="/images/testimonials/07.webp" alt="testimonial" />
-                                                </div>
-                                            </div>
-                                            <div class="right-content">
-                                                <div class="top">
-                                                    <div class="brand">
-                                                        <img src="/images/testimonials/08.webp" alt="testimonial" />
-                                                    </div>
-                                                    <div class="content">
-                                                        <p class="disc">
-                                                            "Working with Digix has been a game-changer for
-                                                            our business. Their strategic insights and
-                                                            innovative solutions have significantly boosted
-                                                            our growth. The professionalism and dedication are
-                                                            unmatched. Highly recommend!"
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="bottom">
-                                                    <h5 class="title">John Smith</h5>
-                                                    <span>CEO of Tech Innovations Inc.</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="single-testimonails-three">
-                                            <div class="left-thumbnmail">
-                                                <img src="/images/testimonials/06.webp" alt="testimonial" />
-                                                <div class="small-image">
-                                                    <img src="/images/testimonials/07.webp" alt="testimonial" />
-                                                </div>
-                                            </div>
-                                            <div class="right-content">
-                                                <div class="top">
-                                                    <div class="brand">
-                                                        <img src="/images/testimonials/08.webp" alt="testimonial" />
-                                                    </div>
-                                                    <div class="content">
-                                                        <p class="disc">
-                                                            "Working with Digix has been a game-changer for
-                                                            our business. Their strategic insights and
-                                                            innovative solutions have significantly boosted
-                                                            our growth. The professionalism and dedication are
-                                                            unmatched. Highly recommend!"
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="bottom">
-                                                    <h5 class="title">John Smith</h5>
-                                                    <span>CEO of Tech Innovations Inc.</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="single-testimonails-three">
-                                            <div class="left-thumbnmail">
-                                                <img src="/images/testimonials/06.webp" alt="testimonial" />
-                                                <div class="small-image">
-                                                    <img src="/images/testimonials/07.webp" alt="testimonial" />
-                                                </div>
-                                            </div>
-                                            <div class="right-content">
-                                                <div class="top">
-                                                    <div class="brand">
-                                                        <img src="/images/testimonials/08.webp" alt="testimonial" />
-                                                    </div>
-                                                    <div class="content">
-                                                        <p class="disc">
-                                                            "Working with Digix has been a game-changer for
-                                                            our business. Their strategic insights and
-                                                            innovative solutions have significantly boosted
-                                                            our growth. The professionalism and dedication are
-                                                            unmatched. Highly recommend!"
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="bottom">
-                                                    <h5 class="title">John Smith</h5>
-                                                    <span>CEO of Tech Innovations Inc.</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-button-next">
-                                    <i class="fa-solid fa-chevron-right"></i>
-                                </div>
-                                <div class="swiper-button-prev">
-                                    <i class="fa-solid fa-chevron-left"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+        <!-- rts testimonials area start -->
+    <div class="rts-section-gap">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5">
+            <div class="testimonials-left-one">
+              <div class="title-left-wrapper">
+                <span class="pre">Testimonials</span>
+                <h2 class="title rts-text-anime-style-1">
+                  Success Stories from <br />
+                  Our Clients
+                </h2>
+                <p class="disc">
+                  Our clients are at the heart of everything we do. We take
+                  pride in delivering innovative IT solutions that drive success
+                  and growth.
+                </p>
+              </div>
+              <div class="swiper-btn-area">
+                <div class="swiper-btn swiper-button-prev">
+                  <i class="fa-regular fa-chevron-left"></i>
                 </div>
+                <div class="swiper-btn swiper-button-next">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </div>
             </div>
+          </div>
+          <div class="col-lg-7 mt_md--50 mt_sm--50">
+            <div class="floating-div">
+              <!-- Swiper -->
+              <div class="swiper mySwiper-testimonails">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide">
+                    <div class="single-testimonails-style-one">
+                      <div class="quote">
+                        <img
+                          src="/images/testimonials/quote2.svg"
+                          alt="quote"
+                        />
+                      </div>
+                      <div class="avatar">
+                        <img
+                          src="/images/testimonials/01.webp"
+                          alt="testimoanials"
+                        />
+                      </div>
+                      <h6 class="title">Sarah Williams</h6>
+                      <p class="desig">COO of JKL Solutions</p>
+                      <p class="disc">
+                        The team at digix Agency truly understands our brand &
+                        audience. Their social media have not only boosted our
+                        engagement but also helped connect with customers.
+                      </p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="single-testimonails-style-one">
+                      <div class="quote">
+                        <img
+                          src="/images/testimonials/quote2.svg"
+                          alt="quote"
+                        />
+                      </div>
+                      <div class="avatar">
+                        <img
+                          src="/images/testimonials/02.webp"
+                          alt="testimoanials"
+                        />
+                      </div>
+                      <h6 class="title">Aandason Koren</h6>
+                      <p class="desig">Head of Sales at DEF Inc.</p>
+                      <p class="disc">
+                        Our PPC campaigns have never been more effective! Thanks
+                        to Digix, we’ve seen a substantial increase in leads and
+                        conversions. Their data-driven approach.
+                      </p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="single-testimonails-style-one">
+                      <div class="quote">
+                        <img
+                          src="/images/testimonials/quote2.svg"
+                          alt="quote"
+                        />
+                      </div>
+                      <div class="avatar">
+                        <img
+                          src="/images/testimonials/03.webp"
+                          alt="testimoanials"
+                        />
+                      </div>
+                      <h6 class="title">Michael Brown</h6>
+                      <p class="desig">Owner of GHI Enterprises</p>
+                      <p class="disc">
+                        The creativity and innovation that Digix brings to the
+                        table are unmatched. Their digital marketing strategies
+                        have not only increased our brand awareness.
+                      </p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="single-testimonails-style-one">
+                      <div class="quote">
+                        <img
+                          src="/images/testimonials/quote2.svg"
+                          alt="quote"
+                        />
+                      </div>
+                      <div class="avatar">
+                        <img
+                          src="/images/testimonials/04.webp"
+                          alt="testimoanials"
+                        />
+                      </div>
+                      <h6 class="title">John Smith</h6>
+                      <p class="desig">Marketing Director at ABC Ltd.</p>
+                      <p class="disc">
+                        Our PPC campaigns have never been more effective! Thanks
+                        to Digix, we’ve seen a substantial increase in leads and
+                        conversions. Their data-driven approach.
+                      </p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="single-testimonails-style-one">
+                      <div class="quote">
+                        <img
+                          src="/images/testimonials/quote2.svg"
+                          alt="quote"
+                        />
+                      </div>
+                      <div class="avatar">
+                        <img
+                          src="/images/testimonials/01.webp"
+                          alt="testimoanials"
+                        />
+                      </div>
+                      <h6 class="title">Sarah Williams</h6>
+                      <p class="desig">COO of JKL Solutions</p>
+                      <p class="disc">
+                        The team at digix Agency truly understands our brand &
+                        audience. Their social media have not only boosted our
+                        engagement but also helped connect with customers.
+                      </p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="single-testimonails-style-one">
+                      <div class="quote">
+                        <img
+                          src="/images/testimonials/quote2.svg"
+                          alt="quote"
+                        />
+                      </div>
+                      <div class="avatar">
+                        <img
+                          src="/images/testimonials/03.webp"
+                          alt="testimoanials"
+                        />
+                      </div>
+                      <h6 class="title">Michael Brown</h6>
+                      <p class="desig">Owner of GHI Enterprises</p>
+                      <p class="disc">
+                        The creativity and innovation that Digix brings to the
+                        table are unmatched. Their digital marketing strategies
+                        have not only increased our brand awareness.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-        <!-- rts testimoanials area edn -->
+      </div>
+    </div>
+    <!-- rts testimonials area start -->
+     
     </div>
 </template>

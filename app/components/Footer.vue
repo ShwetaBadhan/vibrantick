@@ -30,7 +30,6 @@
               Subscribe our newsletter to get the latest news and updates!
             </p>
 
-           
             <ul class="wrapper">
               <li class="icon facebook">
                 <span class="tooltip">Facebook</span>
@@ -74,8 +73,6 @@
                 </svg>
               </li>
             </ul>
-
-           
           </div>
         </div>
         <div class="offset-lg-1 col-lg-8 mt_md--50 mt_sm--20">
@@ -84,19 +81,19 @@
               <h6 class="title">Company</h6>
               <ul>
                 <li><a href="/about-us">About Us</a></li>
+
                 <li><a href="/career">Careers</a></li>
                 <li><a href="/our-blogs">Our Blogs</a></li>
-                <li><a href="/contact-us">Contact Us</a></li>
               </ul>
             </div>
             <div class="single">
-              <h6 class="title">Services</h6>
+              <h6 class="title">Support</h6>
               <ul>
-                <li><a href="/about-us">About Us</a></li>
-                <li><a href="/career">Careers</a></li>
-                <li><a href="#">Our Client</a></li>
-                <li><a href="#">News</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="/our-work">Our Work</a></li>
+                <li><a href="/contact-us">Contact Us</a></li>
+                <li><a href="/privacy-policy">Privacy Policy</a></li>
+                <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+                
               </ul>
             </div>
             <div class="single">
@@ -110,7 +107,7 @@
               </ul>
             </div>
             <div class="single">
-              <h6 class="title">Social Media</h6>
+              <h6 class="title">Contact Us</h6>
 
               <ul>
                 <li>
