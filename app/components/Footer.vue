@@ -1,5 +1,5 @@
 <template>
-  <div class="rts-footer-one pt--50 bg_dark">
+  <div class="rts-footer-one pt--50 pb-0 bg_dark">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -19,7 +19,7 @@
         </div>
       </div>
     </div>
-    <div class="container pb--80">
+    <div class="container pb--50">
       <div class="row">
         <div class="col-lg-3">
           <div class="left-wiget">

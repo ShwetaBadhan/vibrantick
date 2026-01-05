@@ -39,10 +39,7 @@
                                     </div>
                                     <div class="info">
                                       <h5 class="title">E-commerce</h5>
-                                      <p class="details">
-                                        Once planning is complete, site
-                                        preparation begins.
-                                      </p>
+                                      
                                     </div>
                                   </div>
                                 </a>
@@ -55,11 +52,7 @@
                                     </div>
                                     <div class="info">
                                       <h5 class="title">Education</h5>
-                                      <p class="details">
-                                        Quis nulla blandit vulputate morbi
-                                        adipiscing sem vestibulum. Nulla
-                                        turpis
-                                      </p>
+                                     
                                     </div>
                                   </div>
                                 </a>
@@ -72,11 +65,7 @@
                                     </div>
                                     <div class="info">
                                       <h5 class="title">Fitness</h5>
-                                      <p class="details">
-                                        Quis nulla blandit vulputate morbi
-                                        adipiscing sem vestibulum. Nulla
-                                        turpis
-                                      </p>
+                                      
                                     </div>
                                   </div>
                                 </a>
@@ -95,10 +84,7 @@
                                       <h5 class="title">
                                       Health Care
                                       </h5>
-                                      <p class="details">
-                                        We provide best IT solutions for any
-                                        type of business.
-                                      </p>
+                                     
                                     </div>
                                   </div>
                                 </a>
@@ -113,10 +99,7 @@
                                       <h5 class="title">
                                         Information Technology
                                       </h5>
-                                      <p class="details">
-                                        We provide best IT solutions for any
-                                        type of business as.
-                                      </p>
+                                     
                                     </div>
                                   </div>
                                 </a>
@@ -131,10 +114,7 @@
                                       <h5 class="title">
                                        Logistics
                                       </h5>
-                                      <p class="details">
-                                        We provide best IT solutions for any
-                                        type of business as.
-                                      </p>
+                                     
                                     </div>
                                   </div>
                                 </a>
@@ -153,10 +133,7 @@
                                       <h5 class="title">
                                       Pharmacy
                                       </h5>
-                                      <p class="details">
-                                        We provide best IT solutions for any
-                                        type of business.
-                                      </p>
+                                     
                                     </div>
                                   </div>
                                 </a>
@@ -171,10 +148,7 @@
                                       <h5 class="title">
                                         Real Estate
                                       </h5>
-                                      <p class="details">
-                                        We provide best IT solutions for any
-                                        type of business as.
-                                      </p>
+                                      
                                     </div>
                                   </div>
                                 </a>
@@ -189,10 +163,7 @@
                                       <h5 class="title">
                                        Tour & Travel
                                       </h5>
-                                      <p class="details">
-                                        We provide best IT solutions for any
-                                        type of business as.
-                                      </p>
+                                     
                                     </div>
                                   </div>
                                 </a>
@@ -221,10 +192,10 @@
                                     </div>
                                     <div class="info">
                                       <h5 class="title">Cloud Services</h5>
-                                      <p class="details">
+                                      <!-- <p class="details">
                                         Once planning is complete, site
                                         preparation begins.
-                                      </p>
+                                      </p> -->
                                     </div>
                                   </div>
                                 </a>
@@ -237,11 +208,7 @@
                                     </div>
                                     <div class="info">
                                       <h5 class="title">Database Management</h5>
-                                      <p class="details">
-                                        Quis nulla blandit vulputate morbi
-                                        adipiscing sem vestibulum. Nulla
-                                        turpis
-                                      </p>
+                                     
                                     </div>
                                   </div>
                                 </a>
@@ -254,11 +221,7 @@
                                     </div>
                                     <div class="info">
                                       <h5 class="title">Cyber Security</h5>
-                                      <p class="details">
-                                        Quis nulla blandit vulputate morbi
-                                        adipiscing sem vestibulum. Nulla
-                                        turpis
-                                      </p>
+                                     
                                     </div>
                                   </div>
                                 </a>
@@ -277,10 +240,7 @@
                                       <h5 class="title">
                                         DevSecOPs
                                       </h5>
-                                      <p class="details">
-                                        We provide best IT solutions for any
-                                        type of business.
-                                      </p>
+                                     
                                     </div>
                                   </div>
                                 </a>
@@ -295,10 +255,7 @@
                                       <h5 class="title">
                                         E-commerce Management
                                       </h5>
-                                      <p class="details">
-                                        We provide best IT solutions for any
-                                        type of business as.
-                                      </p>
+                                      
                                     </div>
                                   </div>
                                 </a>
@@ -313,10 +270,7 @@
                                       <h5 class="title">
                                         Web Development
                                       </h5>
-                                      <p class="details">
-                                        We provide best IT solutions for any
-                                        type of business as.
-                                      </p>
+                                     
                                     </div>
                                   </div>
                                 </a>
@@ -324,19 +278,53 @@
                             </ul>
                           </div>
                           <div class="col-lg-4">
-                            <div class="menu-list">
-                              <h4>Working Process</h4>
-                              <ul>
-                                <li>Initial Consultation</li>
-                                <li>Developing & strategy</li>
-                                <li>Implementation</li>
-                                <li>Ongoing Monitoring</li>
-                                <li>Assessment</li>
-                                <li>Planning</li>
-                                <li>Implementation</li>
-                                <li>Support</li>
-                              </ul>
-                            </div>
+                            <ul class="mega-menu-item parent-nav">
+                              <li>
+                                <a href="/service-details">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img src="/images/feature/04.svg" alt="service" />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">
+                                        DevSecOPs
+                                      </h5>
+                                     
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/service-details">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img src="/images/feature/05.svg" alt="service" />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">
+                                        E-commerce Management
+                                      </h5>
+                                      
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/service-details">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img src="/images/feature/06.svg" alt="service" />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">
+                                        Web Development
+                                      </h5>
+                                     
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
+                            </ul>
                           </div>
                         </div>
                       </div>
@@ -355,6 +343,12 @@
                   <a href="#">Engage Expert</a>
                   <ul class="submenu parent-nav">
                     <li><a href="/engage-expert-details">PHP Expert</a></li>
+                  </ul>
+                </li>
+                 <li class="main-nav has-dropdown project-a-after">
+                  <a href="#">Business Model</a>
+                  <ul class="submenu parent-nav">
+                    <li><a href="/business-model">Zomato</a></li>
                   </ul>
                 </li>
                  

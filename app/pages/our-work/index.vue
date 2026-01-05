@@ -24,24 +24,11 @@
       </div>
     </div>
 
-    <!-- section start -->
-    <div class="rts-service-details-breadcrumb-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="breadcrumb-area">
-              <h1 class="title rts-text-anime-style-1">
-                Our Projects make us Proud
-              </h1>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- section end -->
+   
 
     <!-- projects list in accordion start -->
-    <div class="portfolio-container container">
+    <div class="portfolio-container container rts-section-gap">
+       
       <div class="portfolio-tabs">
         <div class="tab-buttons">
           <button class="tab-btn active" data-tab="education">

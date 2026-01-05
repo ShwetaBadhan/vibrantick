@@ -10,7 +10,7 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: "Vibrantick Infotech Solutions",
+      title: "Vibrantick Infotech Solutions | Leading Innovation in Technology Solutions",
       link: [
         //  Favicon
         { rel: "shortcut icon", type: "image/x-icon", href: "/images/logo/favicon.png" },
@@ -49,6 +49,7 @@ export default defineNuxtConfig({
           href: "/css/style.css",
           as: "style",
         },
+        
       ],
 
       script: [
@@ -123,6 +124,13 @@ export default defineNuxtConfig({
           tagPosition: "bodyClose",
           defer: true,
         },
+        {
+          src: "https://www.google.com/recaptcha/api.js" ,
+          defer:true,
+          tagPosition:"bodyClose",
+          async:true,
+        }
+        
       ],
     },
   },

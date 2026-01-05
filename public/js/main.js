@@ -383,7 +383,7 @@
               slidesPerView: 4,
             },
             991: {
-              slidesPerView: 3,
+              slidesPerView: 4,
               centeredSlides: false,
             },
             767: {
@@ -391,7 +391,7 @@
               centeredSlides: false,
             },
             575: {
-              slidesPerView: 1,
+              slidesPerView: 2,
             },
             0: {
               slidesPerView: 1,
@@ -459,11 +459,11 @@
               slidesPerView: 3,
             },
             991: {
-              slidesPerView: 2,
+              slidesPerView: 3,
               centeredSlides: false,
             },
             767: {
-              slidesPerView: 1,
+              slidesPerView: 2,
               centeredSlides: false,
             },
             575: {
@@ -582,15 +582,15 @@
               slidesPerView: 4,
             },
             991: {
-              slidesPerView: 3,
+              slidesPerView: 4,
               centeredSlides: false,
             },
             767: {
-              slidesPerView: 2,
+              slidesPerView: 3,
               centeredSlides: false,
             },
             575: {
-              slidesPerView: 1,
+              slidesPerView: 2,
             },
             0: {
               slidesPerView: 1,
@@ -928,3 +928,15 @@ tabs.forEach((tab) => {
     document.getElementById(tab.dataset.tab).classList.add("active");
   });
 });
+
+  function openIIPopup() {
+    document.getElementById("iiJobPopup").style.display = "flex";
+  }
+
+  function closeIIPopup() {
+    document.getElementById("iiJobPopup").style.display = "none";
+  }
+
+  // Auto open (optional)
+  // window.onload = openIIPopup;
+
