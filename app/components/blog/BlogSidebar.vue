@@ -121,25 +121,6 @@
         </div>
         <!-- single wizered End -->
 
-        <!-- single wizered start -->
-        <div class="rts-single-wized">
-            <div class="wized-header">
-                <h5 class="title">Popular Tags</h5>
-            </div>
-            <div class="wized-body">
-                <div class="tags-wrapper">
-                    <a href="/our-blogs/blog-details">Services</a>
-                    <a href="/our-blogs/blog-details">Business</a>
-                    <a href="/our-blogs/blog-details">Growth</a>
-                    <a href="/our-blogs/blog-details">Finance</a>
-                    <a href="/our-blogs/blog-details">UI/UX Design</a>
-                    <a href="/our-blogs/blog-details">Solution</a>
-                    <a href="/our-blogs/blog-details">Speed</a>
-                    <a href="/our-blogs/blog-details">Strategy</a>
-                    <a href="/our-blogs/blog-details">Technology</a>
-                </div>
-            </div>
-        </div>
-        <!-- single wizered End -->
+       
     </div>
 </template>
