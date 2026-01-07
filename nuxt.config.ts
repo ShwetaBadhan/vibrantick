@@ -49,7 +49,7 @@ export default defineNuxtConfig({
           href: "/css/style.css",
           as: "style",
         },
-        
+       
       ],
 
       script: [
@@ -124,6 +124,7 @@ export default defineNuxtConfig({
           tagPosition: "bodyClose",
           defer: true,
         },
+        
         {
           src: "https://www.google.com/recaptcha/api.js" ,
           defer:true,

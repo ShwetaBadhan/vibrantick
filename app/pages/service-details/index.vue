@@ -1,7 +1,7 @@
 <template>
   <CommonPopUp />
   <!-- breadcrumb -->
-  <CommonBreadcrumbSection />
+  <IndustryBanner />
 
   <!-- section for service details start -->
   <section class="service-wrapper">

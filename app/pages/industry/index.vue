@@ -1,13 +1,13 @@
 <template>
   <CommonPopUp />
   <!-- banner -->
-  <CommonBreadcrumbSection />
+  <IndustryBanner />
 
   <section class="project-details py-5">
     <div class="container">
 
       <!-- top image -->
-      <IndustryHeaderSection />
+      <!-- <IndustryHeaderSection /> -->
 
       <!-- CONTENT + SIDEBAR -->
       <div class="row g-5">

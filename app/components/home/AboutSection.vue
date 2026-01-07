@@ -8,15 +8,17 @@
               <h2 class="title rts-text-anime-style-1">About Our Company</h2>
             </div>
             <p class="disc1">
-              we are a team of passionate IT professionals dedicated to
-              transforming businesses through cutting-edge technology solutions.
-              With years of experience in the IT industry, we have built a
-              reputation for delivering innovative and reliable services that
-              meet the unique needs of our clients.
+              At our company, we are more than just a team; we are a collective
+              of passionate individuals who thrive within the dynamic realm of
+              the social web. Our lives revolve around the ever-evolving digital
+              landscape, and we are here to not just keep up, but to lead the
+              way with our exceptional Web Development Service in Mohali. Our motto is simple yet
+              powerful: we adapt to the shifting tides of the modern world and
+              consistently deliver best-in-class services, including the best
+              digital marketing company in Mohali, technical support and online
+              courses, that meet the unique needs of each moment.
             </p>
-            <div class="signature-area-wrapper">
-              <img src="/images/others/sign.svg" alt="signature" />
-            </div>
+            
             <div class="clients-area-clients">
               <img src="/images/about/avatar.png" alt="about" />
               <p class="disc">

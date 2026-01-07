@@ -1,5 +1,5 @@
 <template>
-  <div class="col-lg-4">
+  <div class="col-lg-4 col-md-6">
     <!-- Project Info -->
     <div class="info-box mb-4">
       <h5 class="fw-bold mb-4">Industry Information</h5>

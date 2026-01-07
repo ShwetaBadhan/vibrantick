@@ -1,5 +1,5 @@
 <template>
-  <div class="col-lg-8 title-left-wrapper">
+  <div class="col-lg-8 col-md-6 title-left-wrapper">
     <h2 class="title rts-text-anime-style-1">Information Technology</h2>
 
     <p class="">

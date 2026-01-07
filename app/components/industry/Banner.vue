@@ -15,7 +15,7 @@
           </div>
         </div>
         <div class="col-lg-4 pl--50 pl_md--10 pl_sm--10">
-          <div class="vx-contact-shell d-none">
+          <div class="vx-contact-shell">
             <h2 class="vx-contact-title">Get in Touch</h2>
             <p class="vx-contact-subtitle">
               Fill out the form below and we'll respond within 24 hours.
@@ -53,39 +53,13 @@
                 />
               </div>
 
-             
-
-             <button> <a href="/contact-us" class="rts-btn btn-primary">Submit</a></button>
+              <button>
+                <a href="/contact-us" class="rts-btn btn-primary">Submit</a>
+              </button>
             </form>
           </div>
         </div>
       </div>
     </div>
   </div>
-
-  <!-- Image Section of breadcrumb -->
-  <!-- <div class="rts-about-breadcrumb-area">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-6">
-            <div class="rts-about-breadcrumb-content">
-              <ul>
-                <li><a href="/">Home</a></li>
-                <li><i class="fa fa-chevron-right"></i></li>
-                <li class="active"><a href="#"  id="breadcrumbTitle"></a></li>
-              </ul>
-              <h1 class="title rts-text-anime-style-1">
-                Empowering Businesses Through Technology
-              </h1>
-            </div>
-          </div>
-          <div class="col-lg-6 pl--50 pl_md--10 pl_sm--10">
-            
-            <div class="rts-about-breadcrumb-image">
-              <img src="/images/about/05.webp" alt="about" />
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> -->
 </template>

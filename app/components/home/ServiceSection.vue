@@ -13,10 +13,9 @@
             </div>
             <div class="right-area">
               <p class="disc">
-                We offer a range of IT solutions to meet your business needs,
-                from cloud computing to cybersecurity
+                We offer a range of IT solutions to meet your business needs
               </p>
-              <a href="#" class="btn-line"
+              <a href="/service-details" class="btn-line"
                 ><span>View all Service</span>
                 <i class="fa-solid fa-chevron-right"></i
               ></a>
@@ -30,12 +29,59 @@
             <div class="swiper-wrapper">
               <div class="swiper-slide">
                 <div class="single-case-style-one title-bottom">
-                  <a href="#" class="thumbnail-case">
+                  <a href="/service-details" class="thumbnail-case">
                     <img src="/images/service/01.webp" alt="case" />
                   </a>
-                  <a href="#" class="inner-content">
+                  <a href="/service-details" class="inner-content">
                     <h5 class="title">
-                      Custom Software <br />
+                      Cyber Security <br />
+                      
+                    </h5>
+                    <div class="arrow-btn">
+                      <i class="fa-light fa-arrow-up"></i>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="single-case-style-one title-bottom">
+                  <a href="/service-details" class="thumbnail-case">
+                    <img src="/images/service/02.webp" alt="case" />
+                  </a>
+                  <a href="/service-details" class="inner-content">
+                    <h5 class="title">
+                     Cloud Services
+                    </h5>
+                    <div class="arrow-btn">
+                      <i class="fa-light fa-arrow-up"></i>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="single-case-style-one title-bottom">
+                  <a href="/service-details" class="thumbnail-case">
+                    <img src="/images/service/03.webp" alt="case" />
+                  </a>
+                  <a href="/service-details" class="inner-content">
+                    <h5 class="title">
+                      Graphic & Web <br />
+                     Designing
+                    </h5>
+                    <div class="arrow-btn">
+                      <i class="fa-light fa-arrow-up"></i>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="single-case-style-one title-bottom">
+                  <a href="/service-details" class="thumbnail-case">
+                    <img src="/images/service/04.webp" alt="case" />
+                  </a>
+                  <a href="/service-details" class="inner-content">
+                    <h5 class="title">
+                      Enterprise Software<br />
                       Development
                     </h5>
                     <div class="arrow-btn">
@@ -46,13 +92,13 @@
               </div>
               <div class="swiper-slide">
                 <div class="single-case-style-one title-bottom">
-                  <a href="#" class="thumbnail-case">
+                  <a href="/service-details" class="thumbnail-case">
                     <img src="/images/service/02.webp" alt="case" />
                   </a>
-                  <a href="#" class="inner-content">
+                  <a href="/service-details" class="inner-content">
                     <h5 class="title">
-                      Network Design <br />
-                      and Management
+                     Database <br />
+                       Management
                     </h5>
                     <div class="arrow-btn">
                       <i class="fa-light fa-arrow-up"></i>
@@ -62,13 +108,12 @@
               </div>
               <div class="swiper-slide">
                 <div class="single-case-style-one title-bottom">
-                  <a href="#" class="thumbnail-case">
+                  <a href="/service-details" class="thumbnail-case">
                     <img src="/images/service/03.webp" alt="case" />
                   </a>
-                  <a href="#" class="inner-content">
+                  <a href="/service-details" class="inner-content">
                     <h5 class="title">
-                      AI and Machine <br />
-                      Learning Solutions
+                      DevSecOps
                     </h5>
                     <div class="arrow-btn">
                       <i class="fa-light fa-arrow-up"></i>
@@ -78,61 +123,13 @@
               </div>
               <div class="swiper-slide">
                 <div class="single-case-style-one title-bottom">
-                  <a href="#" class="thumbnail-case">
+                  <a href="/service-details" class="thumbnail-case">
                     <img src="/images/service/04.webp" alt="case" />
                   </a>
-                  <a href="#" class="inner-content">
+                  <a href="/service-details" class="inner-content">
                     <h5 class="title">
-                      IT Support and <br />
-                      Helpdesk Services
-                    </h5>
-                    <div class="arrow-btn">
-                      <i class="fa-light fa-arrow-up"></i>
-                    </div>
-                  </a>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="single-case-style-one title-bottom">
-                  <a href="#" class="thumbnail-case">
-                    <img src="/images/service/02.webp" alt="case" />
-                  </a>
-                  <a href="#" class="inner-content">
-                    <h5 class="title">
-                      Network Design <br />
-                      and Management
-                    </h5>
-                    <div class="arrow-btn">
-                      <i class="fa-light fa-arrow-up"></i>
-                    </div>
-                  </a>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="single-case-style-one title-bottom">
-                  <a href="#" class="thumbnail-case">
-                    <img src="/images/service/03.webp" alt="case" />
-                  </a>
-                  <a href="#" class="inner-content">
-                    <h5 class="title">
-                      AI and Machine <br />
-                      Learning Solutions
-                    </h5>
-                    <div class="arrow-btn">
-                      <i class="fa-light fa-arrow-up"></i>
-                    </div>
-                  </a>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="single-case-style-one title-bottom">
-                  <a href="#" class="thumbnail-case">
-                    <img src="/images/service/04.webp" alt="case" />
-                  </a>
-                  <a href="#" class="inner-content">
-                    <h5 class="title">
-                      IT Support and <br />
-                      Helpdesk Services
+                      Fintech <br />
+                      Development
                     </h5>
                     <div class="arrow-btn">
                       <i class="fa-light fa-arrow-up"></i>

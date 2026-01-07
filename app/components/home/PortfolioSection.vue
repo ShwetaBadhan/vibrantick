@@ -14,7 +14,7 @@
               Discover our journey through successful projects that demonstrate
               innovation, performance, and measurable outcomes.
             </p>
-            <a href="#" onclick="openIIPopup()" class="rts-btn btn-primary"
+            <a href="/our-work"  class="rts-btn btn-primary"
               >View all Portfolio</a
             >
           </div>
@@ -28,13 +28,11 @@
               <div class="content-area">
                 <div class="title-left-wrapper">
                   <h3 class="title rts-text-anime-style-1">
-                    Businesses Through Innovative Software
+                   Winning With Vibrantick & Your Road to Success
                   </h3>
                 </div>
                 <p class="disc">
-                  A showcase of projects we’ve successfully delivered across
-                  industries, highlighting our expertise, creativity, and
-                  results.
+                 Process that guarantees high productivity and profitability for your solution.
                 </p>
                 <div class="check-main-wrapper">
                   <div class="single-check">
@@ -51,7 +49,7 @@
                       ></path>
                     </svg>
 
-                    <p>Business Operations Dashboard</p>
+                    <p>Discussion and Planning</p>
                   </div>
                   <div class="single-check">
                     <svg
@@ -67,7 +65,7 @@
                       ></path>
                     </svg>
 
-                    <p>Customer Engagement Platform</p>
+                    <p>Testing & Development</p>
                   </div>
                   <div class="single-check">
                     <svg
@@ -83,7 +81,7 @@
                       ></path>
                     </svg>
 
-                    <p>Healthcare Technology Platform</p>
+                    <p>Concepts & Initiatives</p>
                   </div>
                 </div>
                 <a href="#" onclick="openIIPopup()" class="rts-btn btn-primary"

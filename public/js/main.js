@@ -929,14 +929,35 @@ tabs.forEach((tab) => {
   });
 });
 
-  function openIIPopup() {
-    document.getElementById("iiJobPopup").style.display = "flex";
-  }
+function openIIPopup() {
+  document.getElementById("iiJobPopup").style.display = "flex";
+}
 
-  function closeIIPopup() {
-    document.getElementById("iiJobPopup").style.display = "none";
-  }
+function closeIIPopup() {
+  document.getElementById("iiJobPopup").style.display = "none";
+}
 
-  // Auto open (optional)
-  // window.onload = openIIPopup;
+// Auto open (optional)
+// window.onload = openIIPopup;
 
+// for breadcrumb heading
+function getBreadcrumbTitle() {
+  // Get pathname
+  const path = window.location.pathname;
+
+  // Remove leading/trailing slashes
+  let slug = path.replace(/^\/|\/$/g, "");
+
+  // Replace hyphens with spaces
+  slug = slug.replace(/-/g, " ");
+
+  // Capitalize each word
+  const title = slug
+    .split(" ")
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ");
+
+  return title;
+}
+
+document.getElementById("breadcrumbTitle").innerText = getBreadcrumbTitle();
