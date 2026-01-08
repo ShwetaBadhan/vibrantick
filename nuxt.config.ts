@@ -2,12 +2,23 @@
 export default defineNuxtConfig({
   compatibilityDate: "2025-07-15",
   devtools: { enabled: true },
+
   vite: {
     server: {
       allowedHosts: ["localhost"],
     },
   },
 
+
+  runtimeConfig: {
+    dbHost: process.env.DB_HOST,
+    dbName: process.env.DB_NAME,
+    dbUser: process.env.DB_USER,
+    dbPassword: process.env.DB_PASSWORD
+  },
+  
+
+  // modules: ["@nuxtjs/tailwindcss"],
   app: {
     head: {
       title: "Vibrantick Infotech Solutions | Leading Innovation in Technology Solutions",
@@ -135,4 +146,8 @@ export default defineNuxtConfig({
       ],
     },
   },
+
+  modules: ["@nuxt/ui"],
+
+
 });

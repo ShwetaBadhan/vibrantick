@@ -75,6 +75,21 @@
                                   </div>
                                 </a>
                               </li>
+                              <li>
+                                <a href="/industry">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img
+                                        src="/images/feature/06.svg"
+                                        alt="service"
+                                      />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">Tour & Travel</h5>
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
                             </ul>
                           </div>
                           <div class="col-lg-4">
@@ -94,42 +109,6 @@
                                   </div>
                                 </a>
                               </li>
-                              <li>
-                                <a href="/industry">
-                                  <div class="single-service-menu">
-                                    <div class="icon">
-                                      <img
-                                        src="/images/feature/05.svg"
-                                        alt="service"
-                                      />
-                                    </div>
-                                    <div class="info">
-                                      <h5 class="title">
-                                        Information Technology
-                                      </h5>
-                                    </div>
-                                  </div>
-                                </a>
-                              </li>
-                              <li>
-                                <a href="/industry">
-                                  <div class="single-service-menu">
-                                    <div class="icon">
-                                      <img
-                                        src="/images/feature/06.svg"
-                                        alt="service"
-                                      />
-                                    </div>
-                                    <div class="info">
-                                      <h5 class="title">Logistics</h5>
-                                    </div>
-                                  </div>
-                                </a>
-                              </li>
-                            </ul>
-                          </div>
-                          <div class="col-lg-4">
-                            <ul class="mega-menu-item parent-nav">
                               <li>
                                 <a href="/industry">
                                   <div class="single-service-menu">
@@ -170,11 +149,22 @@
                                       />
                                     </div>
                                     <div class="info">
-                                      <h5 class="title">Tour & Travel</h5>
+                                      <h5 class="title">Logistics</h5>
                                     </div>
                                   </div>
                                 </a>
                               </li>
+                            </ul>
+                          </div>
+                          <div class="col-lg-4">
+                            <ul class="mega-menu-item parent-nav">
+                              <div class="menu-image-card">
+                                <img
+                                  class="industry-img"
+                                  src="/images/process/06.webp"
+                                  alt="img"
+                                />
+                              </div>
                             </ul>
                           </div>
                         </div>
@@ -182,7 +172,7 @@
                     </div>
                   </div>
                 </li>
-                <li class="main-nav has-dropdown mega-menu">
+                <!-- <li class="main-nav has-dropdown mega-menu">
                   <a href="#">Services</a>
                   <div class="rts-mega-menu service-mega-menu-style">
                     <div class="wrapper">
@@ -201,10 +191,7 @@
                                     </div>
                                     <div class="info">
                                       <h5 class="title">Cloud Services</h5>
-                                      <!-- <p class="details">
-                                        Once planning is complete, site
-                                        preparation begins.
-                                      </p> -->
+                                    
                                     </div>
                                   </div>
                                 </a>
@@ -220,6 +207,23 @@
                                     </div>
                                     <div class="info">
                                       <h5 class="title">Database Management</h5>
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/service-details">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img
+                                        src="/images/feature/05.svg"
+                                        alt="service"
+                                      />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">
+                                        E-commerce Management
+                                      </h5>
                                     </div>
                                   </div>
                                 </a>
@@ -263,6 +267,21 @@
                                   <div class="single-service-menu">
                                     <div class="icon">
                                       <img
+                                        src="/images/feature/06.svg"
+                                        alt="service"
+                                      />
+                                    </div>
+                                    <div class="info">
+                                      <h5 class="title">Web Development</h5>
+                                    </div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/service-details">
+                                  <div class="single-service-menu">
+                                    <div class="icon">
+                                      <img
                                         src="/images/feature/05.svg"
                                         alt="service"
                                       />
@@ -275,80 +294,36 @@
                                   </div>
                                 </a>
                               </li>
-                              <li>
-                                <a href="/service-details">
-                                  <div class="single-service-menu">
-                                    <div class="icon">
-                                      <img
-                                        src="/images/feature/06.svg"
-                                        alt="service"
-                                      />
-                                    </div>
-                                    <div class="info">
-                                      <h5 class="title">Web Development</h5>
-                                    </div>
-                                  </div>
-                                </a>
-                              </li>
+                              
                             </ul>
                           </div>
                           <div class="col-lg-4">
                             <ul class="mega-menu-item parent-nav">
-                              <li>
-                                <a href="/service-details">
-                                  <div class="single-service-menu">
-                                    <div class="icon">
-                                      <img
-                                        src="/images/feature/04.svg"
-                                        alt="service"
-                                      />
-                                    </div>
-                                    <div class="info">
-                                      <h5 class="title">DevSecOPs</h5>
-                                    </div>
-                                  </div>
-                                </a>
-                              </li>
-                              <li>
-                                <a href="/service-details">
-                                  <div class="single-service-menu">
-                                    <div class="icon">
-                                      <img
-                                        src="/images/feature/05.svg"
-                                        alt="service"
-                                      />
-                                    </div>
-                                    <div class="info">
-                                      <h5 class="title">
-                                        E-commerce Management
-                                      </h5>
-                                    </div>
-                                  </div>
-                                </a>
-                              </li>
-                              <li>
-                                <a href="/service-details">
-                                  <div class="single-service-menu">
-                                    <div class="icon">
-                                      <img
-                                        src="/images/feature/06.svg"
-                                        alt="service"
-                                      />
-                                    </div>
-                                    <div class="info">
-                                      <h5 class="title">Web Development</h5>
-                                    </div>
-                                  </div>
-                                </a>
-                              </li>
+                              <div class="menu-image-card">
+                                <img
+                                  class="industry-img"
+                                  src="/images/process/06.webp"
+                                  alt="img"
+                                />
+                              </div>
                             </ul>
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                </li>
+                </li> -->
 
+                <li class="main-nav has-dropdown project-a-after">
+                  <a href="#">Services</a>
+                  <ul class="submenu parent-nav">
+                    <li><a href="/service-details">Cloud Services</a></li>
+                    <li><a href="/service-details">Cyber Security</a></li>
+                    <li><a href="/service-details">DevSecOps</a></li>
+                    <li><a href="/service-details">Web Development</a></li>
+                    
+                  </ul>
+                </li>
                 <li class="main-nav has-dropdown project-a-after">
                   <a href="#">Resources</a>
                   <ul class="submenu parent-nav">
@@ -403,5 +378,35 @@
       </div>
     </div>
   </header>
-  
 </template>
+<!-- <style scoped>
+.service-mega-menu-style {
+  background: radial-gradient(1200px circle at right, #0ea5e9 0%, #020617 40%);
+  border-radius: 20px;
+  padding: 40px;
+}
+
+.single-service-menu {
+  display: flex;
+  gap: 14px;
+  padding: 14px;
+  border-radius: 12px;
+  transition: 0.3s;
+}
+
+.single-service-menu:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.single-service-menu .desc {
+  font-size: 13px;
+  opacity: 0.7;
+}
+
+.mega-info-card {
+  background: linear-gradient(135deg, #0ea5e9, #1e293b);
+  border-radius: 20px;
+  padding: 20px;
+  color: #fff;
+}
+</style> -->

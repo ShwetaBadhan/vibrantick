@@ -1,5 +1,5 @@
 <template>
-  <div class="rts-about-area rts-section-gap pb-80">
+  <div class="rts-about-area rts-section-gap ">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6">
